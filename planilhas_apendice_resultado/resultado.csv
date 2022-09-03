@@ -1721,3 +1721,563 @@ prolongada",N02AA01,Especializado,
 139,vigabatrina,500 mg,comprimido,N03AG04,Especializado,
 140,ziprasidona,40 mg,cápsula,N05AE04,Especializado,
 141,ziprasidona,80 mg,cápsula,N05AE04,Especializado,
+0,benzoilmetronidazol,40 mg/mL,suspensão oral,P01AB01,Básico,
+1,teclozana,500 mg,comprimido,P01AC04,Básico,
+2,teclozana,10 mg/mL,suspensão oral,P01AC04,Básico,
+3,difosfato de cloroquina,150 mg,comprimido,P01BA01,"Estratégico e
+Especializado",
+4,"sulfato de
+hidroxicloroquina",400 mg,comprimido,P01BA02,Especializado,
+5,"difosfato de
+primaquina",15 mg,comprimido,P01BA03,Estratégico,
+6,"difosfato de
+primaquina",5 mg,comprimido,P01BA03,Estratégico,
+7,"succinato de
+tafenoquina",150 mg,comprimido,P01BA07,Estratégico,
+8,pirimetamina,25 mg,comprimido,P01BD01,Estratégico,
+9,artesunato,60 mg/mL,"pó para solução
+injetável",P01BE03,Estratégico,
+10,"arteméter +
+lumefantrina",20 mg + 120 mg,comprimido,P01BF01,Estratégico,
+11,"artesunato +
+cloridrato de
+mefloquina",25 mg + 55 mg,comprimido,P01BF02,Estratégico,
+12,"artesunato +
+cloridrato de
+mefloquina",100 mg + 220 mg,comprimido,P01BF02,Estratégico,
+13,benznidazol,"12,5 mg",comprimido,P01CA02,Estratégico,
+14,benznidazol,100 mg,comprimido,P01CA02,Estratégico,
+15,"antimoniato de
+meglumina",300 mg/mL,solução injetável,P01CB01,Estratégico,
+16,"isetionato de
+pentamidina",300 mg,"pó para solução
+injetável",P01CX01,Estratégico,
+17,praziquantel,600 mg,comprimido,P02BA01,Estratégico,
+18,oxamniquina,50 mg/mL,suspensão oral,P02BA02,Estratégico,
+19,albendazol,40 mg/mL,suspensão oral,P02CA03,Básico,
+20,albendazol,400 mg,"comprimido
+mastigável",P02CA03,"Básico e
+Estratégico",
+21,"citrato de
+dietilcarbamazina",50 mg,comprimido,P02CB02,Estratégico,
+22,ivermectina,6 mg,comprimido,P02CF01,Básico,
+23,permetrina,10 mg/g (1%),loção,P03AC04,Básico,
+24,permetrina,50 mg/g (5% ),loção,P03AC04,Básico,
+0,alfadornase,1 mg/mL,"solução para
+inalação",R05CB13,Especializado,
+1,"alfaporactanto
+(surfactante
+pulmonar)",80 mg/mL,"suspensão
+injetável intratecal
+ou intrabronquica",R07AA,Hospitalar,
+2,"alfaporactanto
+(surfactante
+pulmonar)",25 mg/mL,"solução injetável
+intratecal ou
+intrabronquica",R07AA,Hospitalar,
+3,"brometo de
+ipratrópio","0,25 mg/mL","solução para
+inalação",R03BB01,Básico,
+4,"brometo de
+ipratrópio",20 microgramas/dose,"solução para
+inalação oral",R03BB01,Básico,
+5,"brometo de tiotrópio
+monoidratado
++ cloridrato de
+olodaterol","2,5 mcg + 2,5 mcg","solução para
+inalação",R03AL06,Especializado,
+6,"brometo de
+umeclidínio +
+trifenatato de
+vilanterol","62,5 mcg + 25 mcg",pó para inalação,R03AL03,Especializado,
+7,"bromidrato de
+fenoterol",100 microgramas/dose,solução aerossol,R03AC04,Especializado,
+8,budesonida,32 microgramas,"suspensão para
+inalação nasal",R01AD05,Básico,
+9,budesonida,50 microgramas,"suspensão para
+inalação nasal",R01AD05,Básico,
+10,budesonida,64 microgramas,"suspensão para
+inalação nasal",R01AD05,Básico,
+11,budesonida,200 microgramas,aerossol bucal,R03BA02,Especializado,
+12,budesonida,200 microgramas,"cápsula para
+inalação",R03BA02,Especializado,
+13,budesonida,200 microgramas,pó para inalação,R03BA02,Especializado,
+14,budesonida,400 microgramas,"cápsula para
+inalação",R03BA02,Especializado,
+15,cloreto de sódio,"0,9% (9 mg/mL)",solução nasal,R01AX10,Básico,
+16,cloridrato de prometazina,25 mg,comprimido,R06AD02,Básico,
+17,cloridrato de prometazina,25 mg/mL,solução injetável,R06AD02,Básico,
+18,"dipropionato de
+beclometasona",50 microgramas/dose,"solução para
+inalação oral",R03BA01,Básico,
+19,"dipropionato de
+beclometasona",50 microgramas/dose,"suspensão para
+inalação nasal",R03BA01,Básico,
+20,"dipropionato de
+beclometasona",200 microgramas/dose,"pó para inalação
+oral",R03BA01,Básico,
+21,"dipropionato de
+beclometasona",200 microgramas/dose,"solução para
+inalação oral",R03BA01,Básico,
+22,"dipropionato de
+beclometasona",250 microgramas/dose,"solução para
+inalação oral",R03BA01,Básico,
+23,"dipropionato de
+beclometasona",200 microgramas/dose,"cápsula para
+inalação oral",R03BA01,Básico,
+24,"dipropionato de
+beclometasona",400 microgramas/dose,"pó para inalação
+oral",R03BA01,Básico,
+25,"dipropionato de
+beclometasona",400 microgramas/dose,"cápsula para
+inalação oral",R03BA01,Básico,
+26,fosfato de codeína,3 mg/mL,solução oral,R05DA04,Especializado,
+27,fosfato de codeína,30 mg,comprimido,R05DA04,Especializado,
+28,fosfato de codeína,60 mg,comprimido,R05DA04,Especializado,
+29,fosfato de codeína,30 mg/mL,solução injetável,R05DA04,Especializado,
+30,"fumarato de
+formoterol",12 microgramas,"cápsula para
+inalação",R03AC13,Especializado,
+31,"fumarato de
+formoterol",12 microgramas,pó para inalação,R03AC13,Especializado,
+32,"fumarato de
+formoterol +
+budesonida","6 microgramas + 200
+microgramas","cápsula para
+inalação",R03AK07,Especializado,
+33,"fumarato de
+formoterol +
+budesonida","6 microgramas + 200
+microgramas",pó para inalação,R03AK07,Especializado,
+34,"fumarato de
+formoterol +
+budesonida","12 microgramas + 400
+microgramas","cápsula para
+inalação",R03AK07,Especializado,
+35,"fumarato de
+formoterol +
+budesonida","12 microgramas + 400
+microgramas",pó para inalação,R03AK07,Especializado,
+36,ivacaftor,150 mg,comprimido,R07AX02,Especializado,
+37,loratadina,10 mg,comprimido,R06AX13,Básico,
+38,loratadina,1 mg/mL,xarope,R06AX13,Básico,
+39,maleato de dexclorfeniramina,2 mg,comprimido,R06AB02,Básico,
+40,maleato de dexclorfeniramina,"0,4 mg/mL",solução oral,R06AB02,Básico,
+41,maleato de dexclorfeniramina,"0,4 mg/mL",xarope,R06AB02,Básico,
+42,mepolizumabe,100 mg/mL,"pó para solução
+injetável",R03DX09,Especializado,
+43,mepolizumabe,100 mg/mL,solução injetável,R03DX09,Especializado,
+44,omalizumabe,150 mg,solução injetável,R03DX05,Especializado,
+45,"sulfato de
+salbutamol",100 microgramas/dose,aerossol oral,R03AC02,Básico,
+46,"sulfato de
+salbutamol",5 mg/mL,"solução para
+inalação",R03AC02,Básico,
+47,"sulfato de
+salbutamol","0,5 mg/mL",solução injetável,R03CC02,Básico,
+48,"xinafoato de
+salmeterol",50 microgramas,pó para inalação,R03AC12,Especializado,
+0,acetazolamida,250 mg,comprimido,S01EC01,"Básico e
+Especializado",
+1,aflibercepte,40 mg/mL,solução injetável,S01LA05,Especializado,
+2,bimatoprosta,"0,3 mg/mL (0,03%)",solução oftálmica,S01EE03,Especializado,
+3,brinzolamida,10 mg/mL,"suspensão
+oftálmica",S01EC04,Especializado,
+4,"cloridrato de
+dorzolamida",20 mg/mL,solução oftálmica,S01EC03,Especializado,
+5,"cloridrato de
+pilocarpina",20 mg/mL (2%),solução oftálmica,S01EB01,"Básico e
+Especializado",
+6,"cloridrato de
+tetraciclina",10 mg/g (1%),pomada oftálmica,S01AA09,Básico,
+7,dexametasona,"1 mg/g (0,1%)",pomada oftálmica,S01BA01,Básico,
+8,dexametasona,"1 mg/mL (0,1%)","suspensão
+oftálmica",S01BA01,Básico,
+9,dexametasona,2 mg/mL,solução oftálmica,S01EA05,Especializado,
+10,hipromelose,"3 mg/mL (0,3%)",solução oftálmica,S01KA02,Básico,
+11,hipromelose,"5 mg/mL (0,5%)",solução oftálmica,S01KA02,Básico,
+12,latanoprosta,"0,05 mg/mL",solução oftálmica,S01EE01,Especializado,
+13,maleato de timolol,"2,5 mg/mL (0,25%)",solução oftálmica,S01ED01,Básico,
+14,maleato de timolol,"5 mg/mL (0,5%)",solução oftálmica,S01ED01,"Básico e
+Especializado",
+15,"sulfato de
+gentamicina",5 mg/g,pomada oftálmica,S01AA11,Básico,
+16,"sulfato de
+gentamicina",5 mg/mL,solução oftálmica,S01AA11,Básico,
+17,"sulfato de polimixina
+B + sulfato de
+neomicina +
+fluocinolona
+acetonida +
+cloridrato de
+lidocaína","10.000 ui/ml + 3,500
+mg/ml + 0,250 mg/ml +
+20 mg/ml",solução otológica,S02AA11,Básico,
+18,travoprosta,"0,04 mg/mL",solução oftálmica,S01EE04,Especializado,
+0,ácido folínico,15 mg,comprimido,V03AF03,"Básico e
+Estratégico",
+1,água para injetáveis,15 mg,"solução injetável
+5 mL",V07AB,"Insumos
+(Básico)",
+2,água para injetáveis,15 mg,"solução injetável
+10 mL",V07AB,"Insumos
+(Básico)",
+3,água para injetáveis,15 mg,"solução injetável
+100 mL",V07AB,"Insumos
+(Básico)",
+4,água para injetáveis,15 mg,"solução injetável
+500 mL",V07AB,"Insumos
+(Básico)",
+5,"agulha para caneta
+aplicadora de
+insulina",-,-,NC,"Insumos
+(Básico)",
+6,caneta para aplicação de insulina,-,-,NC,Insumos (Básico),
+7,"cloridrato de
+hidroxocobalamina",5 g,"pó para solução
+injetável",V03AB33,Estratégico,
+8,"cloridrato de
+naloxona","0,4 mg/mL",solução injetável,V03AB15,Básico,
+9,"cloridrato de
+protamina",10 mg/mL,solução injetável,V03AB14,Básico,
+10,"cloridrato de
+sevelâmer",800 mg,comprimido,V03AE02,Especializado,
+11,"complemento
+alimentar
+para paciente
+fenilcetonúrico
+maior de 1 ano
+(fórmula de
+aminoácidos isenta
+de fenilalanina)",800 mg,comprimido,V06CA,Especializado,
+12,"complemento
+alimentar
+para paciente
+fenilcetonúrico
+menor de 1 ano
+(fórmula de
+aminoácidos isenta
+de fenilalanina)",800 mg,comprimido,V06CA,Especializado,
+13,deferasirox,125 mg,"comprimido para
+suspensão",V03AC03,Especializado,
+14,deferasirox,250 mg,"comprimido para
+suspensão",V03AC03,Especializado,
+15,deferasirox,500 mg,"comprimido para
+suspensão",V03AC03,Especializado,
+16,deferiprona,500 mg,comprimido,V03AC02,Especializado,
+17,diafragma,60 mm de diâmetro,comprimido,NC,Insumos (Básico),
+18,diafragma,65 mm de diâmetro,comprimido,NC,Insumos (Básico),
+19,diafragma,70 mm de diâmetro,comprimido,NC,Insumos (Básico),
+20,diafragma,75 mm de diâmetro,comprimido,NC,Insumos (Básico),
+21,diafragma,80 mm de diâmetro,comprimido,NC,Insumos (Básico),
+22,diafragma,85 mm de diâmetro,comprimido,NC,Insumos (Básico),
+23,flumazenil,"0,1 mg/mL",solução injetável,V03AB25,Básico,
+24,folinato de cálcio,15 mg,comprimido,V03AF03,"Básico e
+Estratégico",
+25,gel lubrificante,15 mg,gel,NC,"Insumos
+(Estratégico)",
+26,glicose,50 mg/mL (5%),solução injetável,V06DC01,Básico,
+27,glicose,100 mg/mL (10%),solução injetável,V06DC01,Básico,
+28,glicose,500 mg/mL (50%),solução injetável,V06DC01,Básico,
+29,glutaral,"0,02",solução,NC,"Insumos
+(Básico)",
+30,hipoclorito de sódio,10 mg/mL (1%),solução,NC,"Insumos
+(Básico)",
+31,hipoclorito de sódio,"25 mg/mL (2,5%)",solução,NC,"Insumos
+(Estratégico)",
+32,"lancetas para
+punção digital","25 mg/mL (2,5%)",unidade,NC,"Insumos
+(Básico)",
+33,"medicamentos
+homeopáticos","conforme
+Farmacopeia
+Homeopática
+Brasileira 3a edição","conforme
+Farmacopeia
+Homeopática
+Brasileira 3a
+edição",NC,Básico,
+34,"mesilato de
+desferroxamina",500 mg,"pó para solução
+injetável",V03AC01,Especializado,
+35,"mesilato de
+pralidoxima",200 mg,solução injetável,V03AB04,Básico,
+36,micronutrientes,"cada sachê de 1 g
+contém: vitamina A
+400 microgramas,
+vitamina D 5
+microgramas,
+vitamina E 5 mg,
+vitamina C 30 mg,
+vitamina B1 0,5 mg,
+vitamina B2 0,5 mg,
+vitamina B6 0,5
+mg, vitamina PP
+6 mg, vitamina B9
+150 microgramas,
+vitamina B12 0,9
+microgramas,
+ferro 10 mg, zinco
+4,1 mg, cobre 560
+microgramas,
+selênio 17
+microgramas, iodo
+90 microgramas",pó,V06DX,Estratégico,
+37,"preservativo
+Feminino","cada sachê de 1 g
+contém: vitamina A
+400 microgramas,
+vitamina D 5
+microgramas,
+vitamina E 5 mg,
+vitamina C 30 mg,
+vitamina B1 0,5 mg,
+vitamina B2 0,5 mg,
+vitamina B6 0,5
+mg, vitamina PP
+6 mg, vitamina B9
+150 microgramas,
+vitamina B12 0,9
+microgramas,
+ferro 10 mg, zinco
+4,1 mg, cobre 560
+microgramas,
+selênio 17
+microgramas, iodo
+90 microgramas",até 20 cm,NC,"Insumos
+(Estratégico)",
+38,"preservativo
+masculino","cada sachê de 1 g
+contém: vitamina A
+400 microgramas,
+vitamina D 5
+microgramas,
+vitamina E 5 mg,
+vitamina C 30 mg,
+vitamina B1 0,5 mg,
+vitamina B2 0,5 mg,
+vitamina B6 0,5
+mg, vitamina PP
+6 mg, vitamina B9
+150 microgramas,
+vitamina B12 0,9
+microgramas,
+ferro 10 mg, zinco
+4,1 mg, cobre 560
+microgramas,
+selênio 17
+microgramas, iodo
+90 microgramas",160 mm x 49 mm,NC,"Insumos
+(Estratégico)",
+39,"preservativo
+masculino","cada sachê de 1 g
+contém: vitamina A
+400 microgramas,
+vitamina D 5
+microgramas,
+vitamina E 5 mg,
+vitamina C 30 mg,
+vitamina B1 0,5 mg,
+vitamina B2 0,5 mg,
+vitamina B6 0,5
+mg, vitamina PP
+6 mg, vitamina B9
+150 microgramas,
+vitamina B12 0,9
+microgramas,
+ferro 10 mg, zinco
+4,1 mg, cobre 560
+microgramas,
+selênio 17
+microgramas, iodo
+90 microgramas",160 mm x 52 mm,NC,"Insumos
+(Estratégico)",
+40,"seringas com
+agulha acoplada
+para aplicação de
+insulina","cada sachê de 1 g
+contém: vitamina A
+400 microgramas,
+vitamina D 5
+microgramas,
+vitamina E 5 mg,
+vitamina C 30 mg,
+vitamina B1 0,5 mg,
+vitamina B2 0,5 mg,
+vitamina B6 0,5
+mg, vitamina PP
+6 mg, vitamina B9
+150 microgramas,
+vitamina B12 0,9
+microgramas,
+ferro 10 mg, zinco
+4,1 mg, cobre 560
+microgramas,
+selênio 17
+microgramas, iodo
+90 microgramas",unidade,NC,"Insumos
+(Básico)",
+41,"tiras reagentes de
+medida de glicemia
+capilar","cada sachê de 1 g
+contém: vitamina A
+400 microgramas,
+vitamina D 5
+microgramas,
+vitamina E 5 mg,
+vitamina C 30 mg,
+vitamina B1 0,5 mg,
+vitamina B2 0,5 mg,
+vitamina B6 0,5
+mg, vitamina PP
+6 mg, vitamina B9
+150 microgramas,
+vitamina B12 0,9
+microgramas,
+ferro 10 mg, zinco
+4,1 mg, cobre 560
+microgramas,
+selênio 17
+microgramas, iodo
+90 microgramas",unidade,NC,"Insumos
+(Básico)",
+0,"alcachofra (Cynara
+scolymus L.)","24 a 48 mg de derivados
+de ácido cafeoilquínico
+expressos em ácido
+clorogênico (dose diária)",cápsula,"HC10AW
+5006*",Básico,
+1,"alcachofra (Cynara
+scolymus L.)","24 a 48 mg de derivados
+de ácido cafeoilquínico
+expressos em ácido
+clorogênico (dose diária)",comprimido,"HC10AW
+5006*",Básico,
+2,"alcachofra (Cynara
+scolymus L.)","24 a 48 mg de derivados
+de ácido cafeoilquínico
+expressos em ácido
+clorogênico (dose diária)",solução oral,"HC10AW
+5006*",Básico,
+3,"alcachofra (Cynara
+scolymus L.)","24 a 48 mg de derivados
+de ácido cafeoilquínico
+expressos em ácido
+clorogênico (dose diária)",tintura,"HC10AW
+5006*",Básico,
+4,aroeira (Schinus terebinthifolia raddi),"1,932 mg de ácido gálico
+(dose diária)",gel vaginal,NC,Básico,
+5,aroeira (Schinus terebinthifolia raddi),"1,932 mg de ácido gálico
+(dose diária)","óvulo
+vaginal",NC,Básico,
+6,"babosa (Aloe vera (L.)
+Burm. f.)",10%-70% gel fresco,creme,"HD02WA
+5001*",Básico,
+7,"babosa (Aloe vera (L.)
+Burm. f.)",10&-70% gel fresco,gel,"HD02WA
+5001*",Básico,
+8,"cáscara-sagrada
+(Rhamnus purshiana DC.)","20 a 30 mg de derivados
+hidroxiantracênicos
+expressos em cascarosídeo
+A (dose diária)",cápsula,"HA06AB
+5014*",Básico,
+9,"cáscara-sagrada
+(Rhamnus purshiana DC.)","20 a 30 mg de derivados
+hidroxiantracênicos
+expressos em cascarosídeo
+A (dose diária)",tintura,"HA06AB
+5014*",Básico,
+10,"espinheira-santa
+(Maytenus ilicifolia Mart.
+ex Reissek)","60 a 90 mg taninos totais
+expressos em pirogalol
+(dose diária)",cápsula,NC,Básico,
+11,"espinheira-santa
+(Maytenus ilicifolia Mart.
+ex Reissek)","60 a 90 mg taninos totais
+expressos em pirogalol
+(dose diária)",tintura,NC,Básico,
+12,"espinheira-santa
+(Maytenus ilicifolia Mart.
+ex Reissek)","60 a 90 mg taninos totais
+expressos em pirogalol
+(dose diária)","suspensão
+oral",NC,Básico,
+13,"espinheira-santa
+(Maytenus ilicifolia Mart.
+ex Reissek)","60 a 90 mg taninos totais
+expressos em pirogalol
+(dose diária)",emulsão oral,NC,Básico,
+14,"garra-do-diabo
+(Harpagophytum
+procumbens DC
+ex Meissn.)","30 a 100 mg de
+harpagosídeo ou 45
+a 150 mg de iridoides
+totais expressos em
+harpagosídeos (dose diária)",cápsula,"HM01AW
+5009*",Básico,
+15,"garra-do-diabo
+(Harpagophytum
+procumbens DC
+ex Meissn.)","30 a 100 mg de
+harpagosídeo ou 45
+a 150 mg de iridoides
+totais expressos em
+harpagosídeos (dose diária)",comprimido,"HM01AW
+5009*",Básico,
+16,"garra-do-diabo
+(Harpagophytum
+procumbens DC
+ex Meissn.)","30 a 100 mg de
+harpagosídeo ou 45
+a 150 mg de iridoides
+totais expressos em
+harpagosídeos (dose diária)","comprimido
+de liberação
+retardada","HM01AW
+5009*",Básico,
+17,guaco (Mikania glomerata Spreng.,"0,5 a 5 mg de cumarina
+(dose diária)",tintura,NC,Básico,
+18,guaco (Mikania glomerata Spreng.,"0,5 a 5 mg de cumarina
+(dose diária)",xarope,NC,Básico,
+19,guaco (Mikania glomerata Spreng.,"0,5 a 5 mg de cumarina
+(dose diária)",solução oral,NC,Básico,
+20,"hortelã (Mentha x
+piperita L.)","60 a 440 mg de mentol e 28
+a 256 mg de mentona (dose
+diária)",cápsula,"HA03AW
+5039*",Básico,
+21,"isoflavona-de-soja
+(Glycine max (L.) Merr.)","50 a 120 mg de isoflavonas
+(dose diária)",cápsula,NC,Básico,
+22,"isoflavona-de-soja
+(Glycine max (L.) Merr.)","50 a 120 mg de isoflavonas
+(dose diária)",comprimido,NC,Básico,
+23,"plantago (Plantago
+ovata Forssk.)",3 a 30 g (dose diária),"pó para
+dispersão
+oral","HA06AC
+9001*",Básico,
+24,salgueiro (Salix alba L.),"60 a 240 mg de salicina
+(dose diária)",comprimido,"HN02BA
+5008*",Básico,
+25,salgueiro (Salix alba L.),"60 a 240 mg de salicina
+(dose diária)",elixir,"HN02BA
+5008*",Básico,
+26,salgueiro (Salix alba L.),"60 a 240 mg de salicina
+(dose diária)",solução oral,"HN02BA
+5008*",Básico,
+27,"unha-de-gato (Uncaria
+tomentosa (Willd. ex
+Roem. & Schult.))","0,9 mg de alcaloides
+oxindólicos pentaclíclicos",cápsula,NC,Básico,
+28,"unha-de-gato (Uncaria
+tomentosa (Willd. ex
+Roem. & Schult.))","0,9 mg de alcaloides
+oxindólicos pentaclíclicos",comprimido,NC,Básico,
+29,"unha-de-gato (Uncaria
+tomentosa (Willd. ex
+Roem. & Schult.))","0,9 mg de alcaloides
+oxindólicos pentaclíclicos",gel,NC,Básico,

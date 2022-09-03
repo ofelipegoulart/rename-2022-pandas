@@ -1,35 +1,35 @@
-,Unnamed: 0,"Concentração/
+Unnamed: 0,"Concentração/
 Composição","Forma
 farmacêutica","Código
 ATC",Componente
-0,acetazolamida,250 mg,comprimido,S01EC01,"Básico e
+acetazolamida,250 mg,comprimido,S01EC01,"Básico e
 Especializado"
-1,aflibercepte,40 mg/mL,solução injetável,S01LA05,Especializado
-2,bimatoprosta,"0,3 mg/mL (0,03%)",solução oftálmica,S01EE03,Especializado
-3,brinzolamida,10 mg/mL,"suspensão
+aflibercepte,40 mg/mL,solução injetável,S01LA05,Especializado
+bimatoprosta,"0,3 mg/mL (0,03%)",solução oftálmica,S01EE03,Especializado
+brinzolamida,10 mg/mL,"suspensão
 oftálmica",S01EC04,Especializado
-4,"cloridrato de
+"cloridrato de
 dorzolamida",20 mg/mL,solução oftálmica,S01EC03,Especializado
-5,"cloridrato de
+"cloridrato de
 pilocarpina",20 mg/mL (2%),solução oftálmica,S01EB01,"Básico e
 Especializado"
-6,"cloridrato de
+"cloridrato de
 tetraciclina",10 mg/g (1%),pomada oftálmica,S01AA09,Básico
-7,dexametasona,"1 mg/g (0,1%)",pomada oftálmica,S01BA01,Básico
-8,dexametasona,"1 mg/mL (0,1%)","suspensão
+dexametasona,"1 mg/g (0,1%)",pomada oftálmica,S01BA01,Básico
+dexametasona,"1 mg/mL (0,1%)","suspensão
 oftálmica",S01BA01,Básico
-9,dexametasona,2 mg/mL,solução oftálmica,S01EA05,Especializado
-10,hipromelose,"3 mg/mL (0,3%)",solução oftálmica,S01KA02,Básico
-11,hipromelose,"5 mg/mL (0,5%)",solução oftálmica,S01KA02,Básico
-12,latanoprosta,"0,05 mg/mL",solução oftálmica,S01EE01,Especializado
-13,maleato de timolol,"2,5 mg/mL (0,25%)",solução oftálmica,S01ED01,Básico
-14,maleato de timolol,"5 mg/mL (0,5%)",solução oftálmica,S01ED01,"Básico e
+dexametasona,2 mg/mL,solução oftálmica,S01EA05,Especializado
+hipromelose,"3 mg/mL (0,3%)",solução oftálmica,S01KA02,Básico
+hipromelose,"5 mg/mL (0,5%)",solução oftálmica,S01KA02,Básico
+latanoprosta,"0,05 mg/mL",solução oftálmica,S01EE01,Especializado
+maleato de timolol,"2,5 mg/mL (0,25%)",solução oftálmica,S01ED01,Básico
+maleato de timolol,"5 mg/mL (0,5%)",solução oftálmica,S01ED01,"Básico e
 Especializado"
-15,"sulfato de
+"sulfato de
 gentamicina",5 mg/g,pomada oftálmica,S01AA11,Básico
-16,"sulfato de
+"sulfato de
 gentamicina",5 mg/mL,solução oftálmica,S01AA11,Básico
-17,"sulfato de polimixina
+"sulfato de polimixina
 B + sulfato de
 neomicina +
 fluocinolona
@@ -38,4 +38,4 @@ cloridrato de
 lidocaína","10.000 ui/ml + 3,500
 mg/ml + 0,250 mg/ml +
 20 mg/ml",solução otológica,S02AA11,Básico
-18,travoprosta,"0,04 mg/mL",solução oftálmica,S01EE04,Especializado
+travoprosta,"0,04 mg/mL",solução oftálmica,S01EE04,Especializado

@@ -1,35 +1,35 @@
-,Unnamed: 0,"Concentração/
+Unnamed: 0,"Concentração/
 Composição","Forma
 farmacêutica",Código ATC,Componente
-0,ácido folínico,15 mg,comprimido,V03AF03,"Básico e
+ácido folínico,15 mg,comprimido,V03AF03,"Básico e
 Estratégico"
-1,água para injetáveis,15 mg,"solução injetável
+água para injetáveis,15 mg,"solução injetável
 5 mL",V07AB,"Insumos
 (Básico)"
-2,água para injetáveis,15 mg,"solução injetável
+água para injetáveis,15 mg,"solução injetável
 10 mL",V07AB,"Insumos
 (Básico)"
-3,água para injetáveis,15 mg,"solução injetável
+água para injetáveis,15 mg,"solução injetável
 100 mL",V07AB,"Insumos
 (Básico)"
-4,água para injetáveis,15 mg,"solução injetável
+água para injetáveis,15 mg,"solução injetável
 500 mL",V07AB,"Insumos
 (Básico)"
-5,"agulha para caneta
+"agulha para caneta
 aplicadora de
 insulina",-,-,NC,"Insumos
 (Básico)"
-6,caneta para aplicação de insulina,-,-,NC,Insumos (Básico)
-7,"cloridrato de
+caneta para aplicação de insulina,-,-,NC,Insumos (Básico)
+"cloridrato de
 hidroxocobalamina",5 g,"pó para solução
 injetável",V03AB33,Estratégico
-8,"cloridrato de
+"cloridrato de
 naloxona","0,4 mg/mL",solução injetável,V03AB15,Básico
-9,"cloridrato de
+"cloridrato de
 protamina",10 mg/mL,solução injetável,V03AB14,Básico
-10,"cloridrato de
+"cloridrato de
 sevelâmer",800 mg,comprimido,V03AE02,Especializado
-11,"complemento
+"complemento
 alimentar
 para paciente
 fenilcetonúrico
@@ -37,7 +37,7 @@ maior de 1 ano
 (fórmula de
 aminoácidos isenta
 de fenilalanina)",800 mg,comprimido,V06CA,Especializado
-12,"complemento
+"complemento
 alimentar
 para paciente
 fenilcetonúrico
@@ -45,37 +45,37 @@ menor de 1 ano
 (fórmula de
 aminoácidos isenta
 de fenilalanina)",800 mg,comprimido,V06CA,Especializado
-13,deferasirox,125 mg,"comprimido para
+deferasirox,125 mg,"comprimido para
 suspensão",V03AC03,Especializado
-14,deferasirox,250 mg,"comprimido para
+deferasirox,250 mg,"comprimido para
 suspensão",V03AC03,Especializado
-15,deferasirox,500 mg,"comprimido para
+deferasirox,500 mg,"comprimido para
 suspensão",V03AC03,Especializado
-16,deferiprona,500 mg,comprimido,V03AC02,Especializado
-17,diafragma,60 mm de diâmetro,comprimido,NC,Insumos (Básico)
-18,diafragma,65 mm de diâmetro,comprimido,NC,Insumos (Básico)
-19,diafragma,70 mm de diâmetro,comprimido,NC,Insumos (Básico)
-20,diafragma,75 mm de diâmetro,comprimido,NC,Insumos (Básico)
-21,diafragma,80 mm de diâmetro,comprimido,NC,Insumos (Básico)
-22,diafragma,85 mm de diâmetro,comprimido,NC,Insumos (Básico)
-23,flumazenil,"0,1 mg/mL",solução injetável,V03AB25,Básico
-24,folinato de cálcio,15 mg,comprimido,V03AF03,"Básico e
+deferiprona,500 mg,comprimido,V03AC02,Especializado
+diafragma,60 mm de diâmetro,comprimido,NC,Insumos (Básico)
+diafragma,65 mm de diâmetro,comprimido,NC,Insumos (Básico)
+diafragma,70 mm de diâmetro,comprimido,NC,Insumos (Básico)
+diafragma,75 mm de diâmetro,comprimido,NC,Insumos (Básico)
+diafragma,80 mm de diâmetro,comprimido,NC,Insumos (Básico)
+diafragma,85 mm de diâmetro,comprimido,NC,Insumos (Básico)
+flumazenil,"0,1 mg/mL",solução injetável,V03AB25,Básico
+folinato de cálcio,15 mg,comprimido,V03AF03,"Básico e
 Estratégico"
-25,gel lubrificante,15 mg,gel,NC,"Insumos
+gel lubrificante,15 mg,gel,NC,"Insumos
 (Estratégico)"
-26,glicose,50 mg/mL (5%),solução injetável,V06DC01,Básico
-27,glicose,100 mg/mL (10%),solução injetável,V06DC01,Básico
-28,glicose,500 mg/mL (50%),solução injetável,V06DC01,Básico
-29,glutaral,"0,02",solução,NC,"Insumos
+glicose,50 mg/mL (5%),solução injetável,V06DC01,Básico
+glicose,100 mg/mL (10%),solução injetável,V06DC01,Básico
+glicose,500 mg/mL (50%),solução injetável,V06DC01,Básico
+glutaral,"0,02",solução,NC,"Insumos
 (Básico)"
-30,hipoclorito de sódio,10 mg/mL (1%),solução,NC,"Insumos
+hipoclorito de sódio,10 mg/mL (1%),solução,NC,"Insumos
 (Básico)"
-31,hipoclorito de sódio,"25 mg/mL (2,5%)",solução,NC,"Insumos
+hipoclorito de sódio,"25 mg/mL (2,5%)",solução,NC,"Insumos
 (Estratégico)"
-32,"lancetas para
+"lancetas para
 punção digital","25 mg/mL (2,5%)",unidade,NC,"Insumos
 (Básico)"
-33,"medicamentos
+"medicamentos
 homeopáticos","conforme
 Farmacopeia
 Homeopática
@@ -84,12 +84,12 @@ Farmacopeia
 Homeopática
 Brasileira 3a
 edição",NC,Básico
-34,"mesilato de
+"mesilato de
 desferroxamina",500 mg,"pó para solução
 injetável",V03AC01,Especializado
-35,"mesilato de
+"mesilato de
 pralidoxima",200 mg,solução injetável,V03AB04,Básico
-36,micronutrientes,"cada sachê de 1 g
+micronutrientes,"cada sachê de 1 g
 contém: vitamina A
 400 microgramas,
 vitamina D 5
@@ -110,7 +110,7 @@ microgramas,
 selênio 17
 microgramas, iodo
 90 microgramas",pó,V06DX,Estratégico
-37,"preservativo
+"preservativo
 Feminino","cada sachê de 1 g
 contém: vitamina A
 400 microgramas,
@@ -133,7 +133,7 @@ selênio 17
 microgramas, iodo
 90 microgramas",até 20 cm,NC,"Insumos
 (Estratégico)"
-38,"preservativo
+"preservativo
 masculino","cada sachê de 1 g
 contém: vitamina A
 400 microgramas,
@@ -156,7 +156,7 @@ selênio 17
 microgramas, iodo
 90 microgramas",160 mm x 49 mm,NC,"Insumos
 (Estratégico)"
-39,"preservativo
+"preservativo
 masculino","cada sachê de 1 g
 contém: vitamina A
 400 microgramas,
@@ -179,7 +179,7 @@ selênio 17
 microgramas, iodo
 90 microgramas",160 mm x 52 mm,NC,"Insumos
 (Estratégico)"
-40,"seringas com
+"seringas com
 agulha acoplada
 para aplicação de
 insulina","cada sachê de 1 g
@@ -204,7 +204,7 @@ selênio 17
 microgramas, iodo
 90 microgramas",unidade,NC,"Insumos
 (Básico)"
-41,"tiras reagentes de
+"tiras reagentes de
 medida de glicemia
 capilar","cada sachê de 1 g
 contém: vitamina A
