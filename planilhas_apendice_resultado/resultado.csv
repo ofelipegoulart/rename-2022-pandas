@@ -1205,25 +1205,25 @@ injetável",J01GA01,Estratégico,Alerta
 inalatória",J01GB01,Especializado,Alerta
 174,"vacina adsorvida
 difteria e tétano
-Adulto",300 mg,"suspensão
+Adulto",,"suspensão
 injetável",J07AM51,Estratégico,Alerta
 175,"vacina adsorvida
 difteria e tétano
-Infantil",300 mg,"suspensão
+Infantil",,"suspensão
 injetável",J07AM51,Estratégico,Alerta
 176,"vacina adsorvida
 difteria, tétano e
-pertussis",300 mg,"suspensão
+pertussis",,"suspensão
 injetável",J07AJ51,Estratégico,Alerta
 177,"vacina adsorvida
 difteria, tétano e
 pertussis (acelular)
-adulto",300 mg,"suspensão
+adulto",,"suspensão
 injetável",J07AJ51,Estratégico,Alerta
 178,"vacina adsorvida
 difteria, tétano e
 pertussis (acelular)
-infantil",300 mg,"suspensão
+infantil",,"suspensão
 injetável",J07AJ51,Estratégico,Alerta
 179,"vacina adsorvida
 difteria, tétano,
@@ -1231,96 +1231,96 @@ pertussis, hepatite
 B (recombinante)
 e Haemophilus
 influenzae B
-(conjugada)",300 mg,"suspensão
+(conjugada)",,"suspensão
 injetável",J07CA11,Estratégico,Alerta
 180,"vacina adsorvida
 hepatite A
-(inativada) adulto",300 mg,"suspensão
+(inativada) adulto",,"suspensão
 injetável",J07BC02,Estratégico,Alerta
 181,"vacina adsorvida
 hepatite A
-(inativada) infantil",300 mg,"suspensão
+(inativada) infantil",,"suspensão
 injetável",J07BC02,Estratégico,Alerta
-182,vacina BCG,300 mg,"pó para
+182,vacina BCG,,"pó para
 suspensão
 injetável",J07AN01,Estratégico,Alerta
 183,"vacina cólera
-(inativada)",300 mg,"suspensão
+(inativada)",,"suspensão
 oral",J07AE01,Estratégico,Alerta
 184,"vacina febre
-amarela (atenuada)",300 mg,"pó para
+amarela (atenuada)",,"pó para
 solução
 injetável",J07BL01,Estratégico,Alerta
 185,"vacina febre tifoide
-(polissacarídica)",300 mg,"solução
+(polissacarídica)",,"solução
 injetável",J07AP03,Estratégico,Alerta
 186,"vacina
 Haemophilus
 influenzae B
-(conjugada)",300 mg,"pó para
+(conjugada)",,"pó para
 solução
 injetável",J07AG01,Estratégico,Alerta
 187,"vacina hepatite B
-(recombinante)",300 mg,"suspensão
+(recombinante)",,"suspensão
 injetável",J07BC01,Estratégico,Alerta
 188,"vacina influenza
 trivalente
 (fragmentada,
-inativada)",300 mg,"suspensão
+inativada)",,"suspensão
 injetável",J07BB02,Estratégico,Alerta
 189,"vacina
 meningocócica
-ACWY (conjugada)",300 mg,"solução
+ACWY (conjugada)",,"solução
 injetável",J07AH08,Estratégico,Alerta
 190,"vacina
 meningocócica C
-(conjugada)",300 mg,"pó para
+(conjugada)",,"pó para
 suspensão
 injetável",J07AH07,Estratégico,Alerta
 191,"vacina
 papilomavírus
 humano 6, 11, 16 e
-18 (recombinante)",300 mg,"suspensão
+18 (recombinante)",,"suspensão
 injetável",J07BM01,Estratégico,Alerta
 192,"vacina
 pneumocócica
 10-valente
-(conjugada)",300 mg,"suspensão
+(conjugada)",,"suspensão
 injetável",J07AL02,Estratégico,Alerta
 193,"vacina
 pneumocócica
 13-valente
-(conjugada)",300 mg,"solução
+(conjugada)",,"solução
 injetável",J07AL02,Estratégico,Alerta
 194,"vacina
 pneumocócica
 23-valente
-(polissacarídica)",300 mg,"solução
+(polissacarídica)",,"solução
 injetável",J07AL01,Estratégico,Alerta
 195,"vacina poliomielite
-1 e 3 (atenuada)",300 mg,solução oral,J07BF02,Estratégico,Alerta
+1 e 3 (atenuada)",,solução oral,J07BF02,Estratégico,Alerta
 196,"vacina poliomielite
-1, 2 e 3 (inativada)",300 mg,"solução
+1, 2 e 3 (inativada)",,"solução
 injetável",J07BF03,Estratégico,Alerta
 197,"vacina raiva
-(inativada)",300 mg,"pó para
+(inativada)",,"pó para
 suspensão
 injetável",J07BG01,Estratégico,Alerta
 198,"vacina rotavírus
 humano G1P [8]
-(atenuada)",300 mg,"suspensão
+(atenuada)",,"suspensão
 oral",J07BH01,Estratégico,Alerta
 199,"vacina sarampo,
-caxumba, rubéola",300 mg,"pó para
+caxumba, rubéola",,"pó para
 solução
 injetável",J07BD52,Estratégico,Alerta
 200,"vacina sarampo,
 caxumba, rubéola e
-varicela (atenuada)",300 mg,"pó para
+varicela (atenuada)",,"pó para
 solução
 injetável",J07BD54,Estratégico,Alerta
 201,"vacina varicela
-(atenuada)",300 mg,"pó para
+(atenuada)",,"pó para
 solução
 injetável",J07BK01,Estratégico,Alerta
 202,zanamivir,5 mg,"pó para
@@ -1916,16 +1916,16 @@ mg/ml + 0,250 mg/ml +
 18,travoprosta,"0,04 mg/mL",solução oftálmica,S01EE04,Especializado,
 0,ácido folínico,15 mg,comprimido,V03AF03,"Básico e
 Estratégico",
-1,água para injetáveis,15 mg,"solução injetável
+1,água para injetáveis,,"solução injetável
 5 mL",V07AB,"Insumos
 (Básico)",
-2,água para injetáveis,15 mg,"solução injetável
+2,água para injetáveis,,"solução injetável
 10 mL",V07AB,"Insumos
 (Básico)",
-3,água para injetáveis,15 mg,"solução injetável
+3,água para injetáveis,,"solução injetável
 100 mL",V07AB,"Insumos
 (Básico)",
-4,água para injetáveis,15 mg,"solução injetável
+4,água para injetáveis,,"solução injetável
 500 mL",V07AB,"Insumos
 (Básico)",
 5,"agulha para caneta
@@ -1949,7 +1949,7 @@ fenilcetonúrico
 maior de 1 ano
 (fórmula de
 aminoácidos isenta
-de fenilalanina)",800 mg,comprimido,V06CA,Especializado,
+de fenilalanina)",,comprimido,V06CA,Especializado,
 12,"complemento
 alimentar
 para paciente
@@ -1957,7 +1957,7 @@ fenilcetonúrico
 menor de 1 ano
 (fórmula de
 aminoácidos isenta
-de fenilalanina)",800 mg,comprimido,V06CA,Especializado,
+de fenilalanina)",,comprimido,V06CA,Especializado,
 13,deferasirox,125 mg,"comprimido para
 suspensão",V03AC03,Especializado,
 14,deferasirox,250 mg,"comprimido para
@@ -1974,7 +1974,7 @@ suspensão",V03AC03,Especializado,
 23,flumazenil,"0,1 mg/mL",solução injetável,V03AB25,Básico,
 24,folinato de cálcio,15 mg,comprimido,V03AF03,"Básico e
 Estratégico",
-25,gel lubrificante,15 mg,gel,NC,"Insumos
+25,gel lubrificante,,gel,NC,"Insumos
 (Estratégico)",
 26,glicose,50 mg/mL (5%),solução injetável,V06DC01,Básico,
 27,glicose,100 mg/mL (10%),solução injetável,V06DC01,Básico,
@@ -2024,122 +2024,22 @@ selênio 17
 microgramas, iodo
 90 microgramas",pó,V06DX,Estratégico,
 37,"preservativo
-Feminino","cada sachê de 1 g
-contém: vitamina A
-400 microgramas,
-vitamina D 5
-microgramas,
-vitamina E 5 mg,
-vitamina C 30 mg,
-vitamina B1 0,5 mg,
-vitamina B2 0,5 mg,
-vitamina B6 0,5
-mg, vitamina PP
-6 mg, vitamina B9
-150 microgramas,
-vitamina B12 0,9
-microgramas,
-ferro 10 mg, zinco
-4,1 mg, cobre 560
-microgramas,
-selênio 17
-microgramas, iodo
-90 microgramas",até 20 cm,NC,"Insumos
+Feminino",,até 20 cm,NC,"Insumos
 (Estratégico)",
 38,"preservativo
-masculino","cada sachê de 1 g
-contém: vitamina A
-400 microgramas,
-vitamina D 5
-microgramas,
-vitamina E 5 mg,
-vitamina C 30 mg,
-vitamina B1 0,5 mg,
-vitamina B2 0,5 mg,
-vitamina B6 0,5
-mg, vitamina PP
-6 mg, vitamina B9
-150 microgramas,
-vitamina B12 0,9
-microgramas,
-ferro 10 mg, zinco
-4,1 mg, cobre 560
-microgramas,
-selênio 17
-microgramas, iodo
-90 microgramas",160 mm x 49 mm,NC,"Insumos
+masculino",,160 mm x 49 mm,NC,"Insumos
 (Estratégico)",
 39,"preservativo
-masculino","cada sachê de 1 g
-contém: vitamina A
-400 microgramas,
-vitamina D 5
-microgramas,
-vitamina E 5 mg,
-vitamina C 30 mg,
-vitamina B1 0,5 mg,
-vitamina B2 0,5 mg,
-vitamina B6 0,5
-mg, vitamina PP
-6 mg, vitamina B9
-150 microgramas,
-vitamina B12 0,9
-microgramas,
-ferro 10 mg, zinco
-4,1 mg, cobre 560
-microgramas,
-selênio 17
-microgramas, iodo
-90 microgramas",160 mm x 52 mm,NC,"Insumos
+masculino",,160 mm x 52 mm,NC,"Insumos
 (Estratégico)",
 40,"seringas com
 agulha acoplada
 para aplicação de
-insulina","cada sachê de 1 g
-contém: vitamina A
-400 microgramas,
-vitamina D 5
-microgramas,
-vitamina E 5 mg,
-vitamina C 30 mg,
-vitamina B1 0,5 mg,
-vitamina B2 0,5 mg,
-vitamina B6 0,5
-mg, vitamina PP
-6 mg, vitamina B9
-150 microgramas,
-vitamina B12 0,9
-microgramas,
-ferro 10 mg, zinco
-4,1 mg, cobre 560
-microgramas,
-selênio 17
-microgramas, iodo
-90 microgramas",unidade,NC,"Insumos
+insulina",,unidade,NC,"Insumos
 (Básico)",
 41,"tiras reagentes de
 medida de glicemia
-capilar","cada sachê de 1 g
-contém: vitamina A
-400 microgramas,
-vitamina D 5
-microgramas,
-vitamina E 5 mg,
-vitamina C 30 mg,
-vitamina B1 0,5 mg,
-vitamina B2 0,5 mg,
-vitamina B6 0,5
-mg, vitamina PP
-6 mg, vitamina B9
-150 microgramas,
-vitamina B12 0,9
-microgramas,
-ferro 10 mg, zinco
-4,1 mg, cobre 560
-microgramas,
-selênio 17
-microgramas, iodo
-90 microgramas",unidade,NC,"Insumos
+capilar",,unidade,NC,"Insumos
 (Básico)",
 0,"alcachofra (Cynara
 scolymus L.)","24 a 48 mg de derivados
