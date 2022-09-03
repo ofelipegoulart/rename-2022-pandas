@@ -19,7 +19,7 @@ class RENAME2022:
     def fill_name_medicine(self, csv_file):
         self.csv_file = csv_file
         name_csv_file = self.csv_file[0:-4]
-        pd_treated = pd.read_csv(csv_file)
+        pd_treated = pd.read_csv('./planilhas_apendice/' + csv_file)
         new_pd = pd_treated.fillna(method='ffill')
         new_pd.to_csv(f'{name_csv_file}_atualizado.csv')
 
@@ -46,3 +46,4 @@ class RENAME2022:
 if __name__ == '__main__':
     r = RENAME2022('planilhas_apendice')
     r.generate_final_file()
+
