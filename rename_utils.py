@@ -44,7 +44,7 @@ class RENAME2022:
     def length_column():
         """
         Função para descobrir quantos caracteres possui a maior
-        ‘string’ da coluna de Concentração/Composição. Será importante
+        ‘string’ das colunas do ‘dataframe’. Será importante
         para a criação do arquivo SQL.
         """
         df = pd.read_csv('planilhas_apendice_resultado/resultado.csv')
