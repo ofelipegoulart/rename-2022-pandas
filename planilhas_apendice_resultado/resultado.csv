@@ -3,663 +3,663 @@ Composição","Forma
 farmacêutica","Código
 ATC",Componente,"Classificação
 AWaRe"
-0,ácido ursodesoxicólico,50 mg,comprimido,A05AA02,Especializado,
-1,ácido ursodesoxicólico,150 mg,comprimido,A05AA02,Especializado,
-2,ácido ursodesoxicólico,300 mg,comprimido,A05AA02,Especializado,
+0,ácido ursodesoxicólico,50 mg,comprimido,A05AA02,Especializado, 
+1,ácido ursodesoxicólico,150 mg,comprimido,A05AA02,Especializado, 
+2,ácido ursodesoxicólico,300 mg,comprimido,A05AA02,Especializado, 
 3,alfa-alglicosidade,50 mg,"pó para solução
-injetável",A16AB07,Especializado,
-4,alfacalcidol,"0,25 micrograma",cápsula mole,A11CC03,Especializado,
-5,alfacalcidol,1 micrograma,cápsula mole,A11CC03,Especializado,
-6,alfaelosulfase,5 mg,solução injetável,A16AB12,Especializado,
+injetável",A16AB07,Especializado, 
+4,alfacalcidol,"0,25 micrograma",cápsula mole,A11CC03,Especializado, 
+5,alfacalcidol,1 micrograma,cápsula mole,A11CC03,Especializado, 
+6,alfaelosulfase,5 mg,solução injetável,A16AB12,Especializado, 
 7,alfataliglicerase,200 unidades,"pó para solução
-injetável",A16AB11,Especializado,
+injetável",A16AB11,Especializado, 
 8,alfavelaglicerase,400 unidades,"pó para solução
-injetável",A16AB10,Especializado,
-9,alfavestronidase,2 mg/mL,solução injetável,A16AB18,Especializado,
-10,biotina,"2,5 mg",cápsula,A11HA05,Especializado,
-11,calcitriol,"0,25 micrograma",cápsula mole,A11CC04,Especializado,
+injetável",A16AB10,Especializado, 
+9,alfavestronidase,2 mg/mL,solução injetável,A16AB18,Especializado, 
+10,biotina,"2,5 mg",cápsula,A11HA05,Especializado, 
+11,calcitriol,"0,25 micrograma",cápsula mole,A11CC04,Especializado, 
 12,carbonato de cálcio,"1.250 mg (500 mg de
-cálcio)",comprimido,A12AA04,Básico,
+cálcio)",comprimido,A12AA04,Básico, 
 13,Carbonato de cálcio + colecalciferol,"1.250 mg (500 mg de
 cálcio) + 200 unidades
-internacionais",comprimido,A11CC05,Básico,
+internacionais",comprimido,A11CC05,Básico, 
 14,Carbonato de cálcio + colecalciferol,"1.250 mg (500 mg de
 cálcio) + 400 unidades
-internacionais",comprimido,A11CC05,Básico,
+internacionais",comprimido,A11CC05,Básico, 
 15,Carbonato de cálcio + colecalciferol,"1.500 mg (600 mg de
 cálcio) + 400 unidades
-internacionais",comprimido,A11CC05,Básico,
+internacionais",comprimido,A11CC05,Básico, 
 16,carvão vegetal ativado,,"pó para
-suspensão oral",A07BA01,Básico,
-17,cloridrato de metformina,500 mg,comprimido,A10BA02,Básico,
-18,cloridrato de metformina,850 mg,comprimido,A10BA02,Básico,
-19,cloridrato de metoclopramida,10 mg,comprimido,A03FA01,Básico,
-20,cloridrato de metoclopramida,5 mg/mL,solução injetável,A03FA01,Básico,
-21,cloridrato de metoclopramida,4 mg/mL,solução oral,A03FA01,Básico,
-22,cloridrato de ondansetrona,4 mg,comprimido,A04AA01,Básico,
+suspensão oral",A07BA01,Básico, 
+17,cloridrato de metformina,500 mg,comprimido,A10BA02,Básico, 
+18,cloridrato de metformina,850 mg,comprimido,A10BA02,Básico, 
+19,cloridrato de metoclopramida,10 mg,comprimido,A03FA01,Básico, 
+20,cloridrato de metoclopramida,5 mg/mL,solução injetável,A03FA01,Básico, 
+21,cloridrato de metoclopramida,4 mg/mL,solução oral,A03FA01,Básico, 
+22,cloridrato de ondansetrona,4 mg,comprimido,A04AA01,Básico, 
 23,cloridrato de ondansetrona,4 mg,"comprimido
-orodispersível",A04AA01,Básico,
-24,cloridrato de ondansetrona,8 mg,comprimido,A04AA01,Básico,
+orodispersível",A04AA01,Básico, 
+24,cloridrato de ondansetrona,8 mg,comprimido,A04AA01,Básico, 
 25,cloridrato de ondansetrona,8 mg,"comprimido
-orodispersível",A04AA01,Básico,
-26,cloridrato de piridoxina,40 mg,comprimido,A11HA02,Básico,
-27,cloridrato de piridoxina,100 mg,comprimido,A11HA02,Estratégico,
-28,cloridrato de tiamina,300 mg,comprimido,A11DA01,Básico,
-29,dapagliflozina,10 mg,comprimido,A10BK01,Especializado,
+orodispersível",A04AA01,Básico, 
+26,cloridrato de piridoxina,40 mg,comprimido,A11HA02,Básico, 
+27,cloridrato de piridoxina,100 mg,comprimido,A11HA02,Estratégico, 
+28,cloridrato de tiamina,300 mg,comprimido,A11DA01,Básico, 
+29,dapagliflozina,10 mg,comprimido,A10BK01,Especializado, 
 30,dicloridrato de sapropterina,100 mg,comprimido,A16AX07,"Estratégico e
-Especializado",
-31,digliconato de clorexidina,"0,0012",solução bucal,A01AB03,Básico,
+Especializado", 
+31,digliconato de clorexidina,"0,0012",solução bucal,A01AB03,Básico, 
 32,fosfato de cálcio tribásico + colecalciferol,"1661,616 mg (600 mg de
 cálcio) + 400 unidades
-internacionais",comprimido,A11CC05,Básico,
-33,galsulfase,5 mg,solução injetável,A16AB08,Especializado,
-34,glibenclamida,5 mg,comprimido,A10BB01,Básico,
-35,glicerol,120 mg/mL,solução retal,A06AG04,Básico,
-36,glicerol,72 mg,supositório retal,A06AG04,Básico,
+internacionais",comprimido,A11CC05,Básico, 
+33,galsulfase,5 mg,solução injetável,A16AB08,Especializado, 
+34,glibenclamida,5 mg,comprimido,A10BB01,Básico, 
+35,glicerol,120 mg/mL,solução retal,A06AG04,Básico, 
+36,glicerol,72 mg,supositório retal,A06AG04,Básico, 
 37,gliclazida,30 mg,"comprimido
 de liberação
-prolongada",A10BB09,Básico,
+prolongada",A10BB09,Básico, 
 38,gliclazida,60 mg,"comprimido
 de liberação
-prolongada",A10BB09,Básico,
-39,gliclazida,80 mg,comprimido,A10BB09,Básico,
-40,hidróxido de alumínio,"61,5 mg/mL",suspensão oral,A02AB01,Básico,
-41,hidróxido de alumínio,230 mg,comprimido,A02AB01,Básico,
-42,hidróxido de alumínio,300 mg,comprimido,A02AB01,Básico,
-43,idursulfase,2 mg/mL,solução injetável,A16AB09,Especializado,
+prolongada",A10BB09,Básico, 
+39,gliclazida,80 mg,comprimido,A10BB09,Básico, 
+40,hidróxido de alumínio,"61,5 mg/mL",suspensão oral,A02AB01,Básico, 
+41,hidróxido de alumínio,230 mg,comprimido,A02AB01,Básico, 
+42,hidróxido de alumínio,300 mg,comprimido,A02AB01,Básico, 
+43,idursulfase,2 mg/mL,solução injetável,A16AB09,Especializado, 
 44,imiglucerase,400 unidades,"pó para solução
-injetável",A16AB02,Especializado,
+injetável",A16AB02,Especializado, 
 45,insulina analógica de ação prolongada,"100  unidades
 internacionais/mL","solução injetável
 com sistema de
-aplicação",A10AE,Especializado,
+aplicação",A10AE,Especializado, 
 46,insulina analógica de ação prolongada,"300 unidades
 internacionais/mL","solução injetável
 com sistema de
-aplicação",A10AE,Especializado,
+aplicação",A10AE,Especializado, 
 47,insulina análoga de ação rápida,"100  unidades
 internacionais/mL","solução injetável
 com sistema de
-aplicação",A10AB,Especializado,
+aplicação",A10AB,Especializado, 
 48,insulina humana NPH,"100 unidades
 internacionais/mL","suspensão
-injetável",A10AC01,Básico,
+injetável",A10AC01,Básico, 
 49,insulina humana regular,"100 unidades
-internacionais/mL",solução injetável,A10AB01,Básico,
-50,lactulose,667 mg/mL,xarope,A06AD11,Básico,
-51,laronidase,"0,58 mg/mL",solução injetável,A16AB05,Especializado,
-52,mesalazina,400 mg,comprimido,A07EC02,Especializado,
+internacionais/mL",solução injetável,A10AB01,Básico, 
+50,lactulose,667 mg/mL,xarope,A06AD11,Básico, 
+51,laronidase,"0,58 mg/mL",solução injetável,A16AB05,Especializado, 
+52,mesalazina,400 mg,comprimido,A07EC02,Especializado, 
 53,mesalazina,500 mg,"comprimido
 de liberação
-prolongada",A07EC02,Especializado,
-54,mesalazina,800 mg,comprimido,A07EC02,Especializado,
-55,mesalazina,250 mg,supositório retal,A07EC02,Especializado,
-56,mesalazina,500 mg,supositório retal,A07EC02,Especializado,
-57,mesalazina,1.000 mg,supositório retal,A07EC02,Especializado,
-58,mesalazina,10 mg/mL,enema retal,A07EC02,Especializado,
-59,miglustate,100 mg,cápsula,A16AX06,Especializado,
+prolongada",A07EC02,Especializado, 
+54,mesalazina,800 mg,comprimido,A07EC02,Especializado, 
+55,mesalazina,250 mg,supositório retal,A07EC02,Especializado, 
+56,mesalazina,500 mg,supositório retal,A07EC02,Especializado, 
+57,mesalazina,1.000 mg,supositório retal,A07EC02,Especializado, 
+58,mesalazina,10 mg/mL,enema retal,A07EC02,Especializado, 
+59,miglustate,100 mg,cápsula,A16AX06,Especializado, 
 60,nistatina,"100.000 unidades
-internacionais/mL",suspensão oral,A07AA02,Básico,
-61,nitrato de miconazol,2% (20 mg/g),gel oral,A01AB09,Básico,
-62,omeprazol,10 mg,cápsula,A02BC01,Básico,
-63,omeprazol,20 mg,cápsula,A02BC01,Básico,
+internacionais/mL",suspensão oral,A07AA02,Básico, 
+61,nitrato de miconazol,2% (20 mg/g),gel oral,A01AB09,Básico, 
+62,omeprazol,10 mg,cápsula,A02BC01,Básico, 
+63,omeprazol,20 mg,cápsula,A02BC01,Básico, 
 64,palmitato de retinol,"150.000 unidades
-internacionais/mL",solução oral,A11CA01,Básico,
+internacionais/mL",solução oral,A11CA01,Básico, 
 65,palmitato de retinol,"100.000 unidades
-internacionais",cápsula mole,A11CA01,Estratégico,
+internacionais",cápsula mole,A11CA01,Estratégico, 
 66,palmitato de retinol,"200.000 unidades
-internacionais",cápsula mole,A11CA01,Estratégico,
+internacionais",cápsula mole,A11CA01,Estratégico, 
 67,palmitato de retinol,"10.000 unidades
-internacionais",cápsula,A09AA,Especializado,
+internacionais",cápsula,A09AA,Especializado, 
 68,palmitato de retinol,"25.000 unidades
-internacionais",cápsula,A09AA,Especializado,
+internacionais",cápsula,A09AA,Especializado, 
 69,sais para reidratação oral,"cloreto de sódio, glicose anidra, cloreto de potássio, citrato de sódio diidratado","pó para solução
-oral",A07CA,Básico,
-70,sulfassalazina,500 mg,comprimido,A07EC01,Especializado,
-71,sulfato de atropina,"0,25 mg/mL",solução injetável,A03BA01,Básico,
-72,sulfato de magnésio,,pó para solução oral,A06AD04,Básico,
+oral",A07CA,Básico, 
+70,sulfassalazina,500 mg,comprimido,A07EC01,Especializado, 
+71,sulfato de atropina,"0,25 mg/mL",solução injetável,A03BA01,Básico, 
+72,sulfato de magnésio,,pó para solução oral,A06AD04,Básico, 
 73,sulfato de magnésio,"10% (0,81 mEq/mL
 Mg++)",solução injetável,"A12CC02;
-B05XA05",Básico,
+B05XA05",Básico, 
 74,sulfato de magnésio,"50% (4,05 mEq/mL
 Mg++)",solução injetável,"A12CC02;
-B05XA05",Básico,
-75,sulfato de zinco,200 microgramas/mL,solução injetável,A12CB01,Básico,
-76,sulfato de zinco,10 mg,Comprimido mastigável,A12CB01,Básico,
-77,sulfato de zinco,4 mg/mL,xarope,A12CB01,Básico,
-78,trientina,250 mg,cápsula,A16AX12,Especializado,
-0,abciximabe,2 mg/mL,solução injetável,B01AC13,Hospitalar,
-1,acetato de sódio,2 mEq/mL,solução injetável,B05XA08,Básico,
+B05XA05",Básico, 
+75,sulfato de zinco,200 microgramas/mL,solução injetável,A12CB01,Básico, 
+76,sulfato de zinco,10 mg,Comprimido mastigável,A12CB01,Básico, 
+77,sulfato de zinco,4 mg/mL,xarope,A12CB01,Básico, 
+78,trientina,250 mg,cápsula,A16AX12,Especializado, 
+0,abciximabe,2 mg/mL,solução injetável,B01AC13,Hospitalar, 
+1,acetato de sódio,2 mEq/mL,solução injetável,B05XA08,Básico, 
 2,"ácido
-acetilsalicílico",100 mg,comprimido,B01AC06,Básico,
-3,ácido fólico,5 mg,comprimido,B03BB01,Básico,
-4,ácido fólico,"0,2 mg/mL",solução oral,B03BB01,Básico,
-5,ácido tranexâmico,250 mg,comprimido,B02AA02,Estratégico,
-6,albumina humana,"0,2 g/mL (20%)",solução injetável,B05AA01,Hospitalar,
+acetilsalicílico",100 mg,comprimido,B01AC06,Básico, 
+3,ácido fólico,5 mg,comprimido,B03BB01,Básico, 
+4,ácido fólico,"0,2 mg/mL",solução oral,B03BB01,Básico, 
+5,ácido tranexâmico,250 mg,comprimido,B02AA02,Estratégico, 
+6,albumina humana,"0,2 g/mL (20%)",solução injetável,B05AA01,Hospitalar, 
 7,alfaepoetina,"1.000 unidades
 internacionais","pó para solução
-injetável",B03XA,Especializado,
+injetável",B03XA,Especializado, 
 8,alfaepoetina,"2.000 unidades
 internacionais","pó para solução
-injetável",B03XA,Especializado,
+injetável",B03XA,Especializado, 
 9,alfaepoetina,"3.000 unidades
 internacionais","pó para solução
-injetável",B03XA,Especializado,
+injetável",B03XA,Especializado, 
 10,alfaepoetina,"4.000 unidades
 internacionais","pó para solução
-injetável",B03XA,Especializado,
+injetável",B03XA,Especializado, 
 11,alfaepoetina,"10.000 unidades
 internacionais","pó para solução
-injetável",B03XA,Especializado,
+injetável",B03XA,Especializado, 
 12,alfaepoetina,"1.000 unidades
-internacionais",solução injetável,B03XA,Especializado,
+internacionais",solução injetável,B03XA,Especializado, 
 13,alfaepoetina,"2.000 unidades
-internacionais",solução injetável,B03XA,Especializado,
+internacionais",solução injetável,B03XA,Especializado, 
 14,alfaepoetina,"3.000 unidades
-internacionais",solução injetável,B03XA,Especializado,
+internacionais",solução injetável,B03XA,Especializado, 
 15,alfaepoetina,"4.000 unidades
-internacionais",solução injetável,B03XA,Especializado,
+internacionais",solução injetável,B03XA,Especializado, 
 16,alfaepoetina,"10.000 unidades
-internacionais",solução injetável,B03XA,Especializado,
+internacionais",solução injetável,B03XA,Especializado, 
 17,alteplase,10 mg,"pó para solução
-injetável",B01AD02,Hospitalar,
+injetável",B01AD02,Hospitalar, 
 18,alteplase,20 mg,"pó para solução
-injetável",B01AD02,Hospitalar,
+injetável",B01AD02,Hospitalar, 
 19,alteplase,50 mg,"pó para solução
-injetável",B01AD02,Hospitalar,
+injetável",B01AD02,Hospitalar, 
 20,"bicarbonato de
-sódio","1 mEq/mL (8,4%)",solução injetável,B05XA02,Básico,
-21,cianocobalamina,1.000 microgramas,solução injetável,B03BA01,Básico,
+sódio","1 mEq/mL (8,4%)",solução injetável,B05XA02,Básico, 
+21,cianocobalamina,1.000 microgramas,solução injetável,B03BA01,Básico, 
 22,clopidogrel,75 mg,comprimido,B01AC04,"Especializado e
-Hospitalar",
+Hospitalar", 
 23,"cloreto de
-potássio","2,56 mEq/mL (19,1%)",solução injetável,B05XA01,Básico,
-24,cloreto de sódio,"3,4 mEq/mL (20%)",solução injetável,B05XA03,Básico,
-25,cloreto de sódio,"0,9% (0,154 mEq/mL)",solução injetável,B05XA03,Básico,
-26,cloridrato de tirofibana,"0,25 mg/mL",solução injetável,B01AC17,Hospitalar,
+potássio","2,56 mEq/mL (19,1%)",solução injetável,B05XA01,Básico, 
+24,cloreto de sódio,"3,4 mEq/mL (20%)",solução injetável,B05XA03,Básico, 
+25,cloreto de sódio,"0,9% (0,154 mEq/mL)",solução injetável,B05XA03,Básico, 
+26,cloridrato de tirofibana,"0,25 mg/mL",solução injetável,B01AC17,Hospitalar, 
 27,complexo protrombínico humano,"500 unidades
 internacionais","pó para solução
-injetável",B02BD01,Estratégico,
+injetável",B02BD01,Estratégico, 
 28,complexo protrombínico humano,"600 unidades
 internacionais","pó para solução
 injetável",B02BD01,"Estratégico e
-Hospitalar",
+Hospitalar", 
 29,"complexo
 protrombínico
 parcialmente
 ativado",500 unidades,"pó para solução
-injetável",B02BD03,Estratégico,
+injetável",B02BD03,Estratégico, 
 30,"complexo
 protrombínico
 parcialmente
 ativado",1.000 unidades,"pó para solução
-injetável",B02BD03,Estratégico,
+injetável",B02BD03,Estratégico, 
 31,"complexo
 protrombínico
 parcialmente
 ativado",2.500 unidades,"pó para solução
-injetável",B02BD03,Estratégico,
+injetável",B02BD03,Estratégico, 
 32,"eltrombopague
-olamina",25 mg,comprimido,B02BX05,Especializado,
+olamina",25 mg,comprimido,B02BX05,Especializado, 
 33,"eltrombopague
-olamina",50 mg,comprimido,B02BX05,Especializado,
-34,emicizumabe,"60 mg/0,4 mL",solução injetável,B02BX06,Estratégico,
-35,emicizumabe,30 mg/mL,solução injetável,B02BX06,Estratégico,
-36,emicizumabe,"105 mg/ 0,7 mL",solução injetável,B02BX06,Estratégico,
-37,emicizumabe,150 mg/mL,solução injetável,B02BX06,Estratégico,
+olamina",50 mg,comprimido,B02BX05,Especializado, 
+34,emicizumabe,"60 mg/0,4 mL",solução injetável,B02BX06,Estratégico, 
+35,emicizumabe,30 mg/mL,solução injetável,B02BX06,Estratégico, 
+36,emicizumabe,"105 mg/ 0,7 mL",solução injetável,B02BX06,Estratégico, 
+37,emicizumabe,150 mg/mL,solução injetável,B02BX06,Estratégico, 
 38,"enoxaparina
-sódica","40 mg/0,4 mL",solução injetável,B01AB05,Especializado,
+sódica","40 mg/0,4 mL",solução injetável,B01AB05,Especializado, 
 39,"enoxaparina
-sódica","60 mg/0,6 mL",solução injetável,B01AB05,Especializado,
+sódica","60 mg/0,6 mL",solução injetável,B01AB05,Especializado, 
 40,estreptoquinase,"250.000 unidades
 internacionais","pó para solução
-injetável",B01AD01,Hospitalar,
+injetável",B01AD01,Hospitalar, 
 41,fator IX de coagulação,"200 unidades
 internacionais","pó para solução
-injetável",B02BD04,Estratégico,
+injetável",B02BD04,Estratégico, 
 42,fator IX de coagulação,"250 unidades
 internacionais","pó para solução
-injetável",B02BD04,Estratégico,
+injetável",B02BD04,Estratégico, 
 43,fator IX de coagulação,"500 unidades
 internacionais","pó para solução
-injetável",B02BD04,Estratégico,
+injetável",B02BD04,Estratégico, 
 44,fator IX de coagulação,"600 unidades
 internacionais","pó para solução
-injetável",B02BD04,Estratégico,
+injetável",B02BD04,Estratégico, 
 45,fator IX de coagulação,"1.000 unidades
 internacionais","pó para solução
-injetável",B02BD04,Estratégico,
+injetável",B02BD04,Estratégico, 
 46,fator IX de coagulação,"1.200 unidades
 internacionais","pó para solução
-injetável",B02BD04,Estratégico,
+injetável",B02BD04,Estratégico, 
 47,fator VII de coagulação ativado recombinante,"1 mg (50.000 unidades
 internacionais)","pó para solução
-injetável",B02BD05,Estratégico,
+injetável",B02BD05,Estratégico, 
 48,fator VII de coagulação ativado recombinante,"2 mg (100.000 unidades
 internacionais)","pó para solução
-injetável",B02BD05,Estratégico,
+injetável",B02BD05,Estratégico, 
 49,fator VII de coagulação ativado recombinante,"5 mg (250.000 unidades
 internacionais)","pó para solução
-injetável",B02BD05,Estratégico,
+injetável",B02BD05,Estratégico, 
 50,"fator VIII de
 coagulação","1.000 unidades
 internacionais","pó para solução
-injetável",B02BD02,Estratégico,
+injetável",B02BD02,Estratégico, 
 51,"fator VIII de
 coagulação","500 unidades
 internacionais","pó para solução
-injetável",B02BD02,Estratégico,
+injetável",B02BD02,Estratégico, 
 52,"fator VIII de
 coagulação","250 unidades
 internacionais","pó para solução
-injetável",B02BD02,Estratégico,
+injetável",B02BD02,Estratégico, 
 53,"fator VIII de
 coagulação
 contendo fator de
 von Willebrand","250 unidades
 internacionais","pó para solução
-injetável",B02BD06,Estratégico,
+injetável",B02BD06,Estratégico, 
 54,"fator VIII de
 coagulação
 contendo fator de
 von Willebrand","500 unidades
 internacionais","pó para solução
-injetável",B02BD06,Estratégico,
+injetável",B02BD06,Estratégico, 
 55,"fator VIII de
 coagulação
 contendo fator de
 von Willebrand","1.000 unidades
 internacionais","pó para solução
-injetável",B02BD06,Estratégico,
+injetável",B02BD06,Estratégico, 
 56,"fator VIII de
 coagulação
 recombinante","250 unidades
 internacionais","pó para solução
-injetável",B02BD02,Estratégico,
+injetável",B02BD02,Estratégico, 
 57,"fator VIII de
 coagulação
 recombinante","500 unidades
 internacionais","pó para solução
-injetável",B02BD02,Estratégico,
+injetável",B02BD02,Estratégico, 
 58,"fator VIII de
 coagulação
 recombinante","1.000 unidades
 internacionais","pó para solução
-injetável",B02BD02,Estratégico,
+injetável",B02BD02,Estratégico, 
 59,"fator XIII de
 coagulação","250 unidades
 internacionais","pó para solução
-injetável",B02BD07,Estratégico,
+injetável",B02BD07,Estratégico, 
 60,fibrinogênio,1 g,"pó para solução
-injetável",B02BB01,Estratégico,
+injetável",B02BB01,Estratégico, 
 61,"fosfato de
 potássio
 monobásico
 + fosfato de
-potássio dibásico","0,03 g/mL + 0,1567 g/mL",solução injetável,B05XA06,Básico,
+potássio dibásico","0,03 g/mL + 0,1567 g/mL",solução injetável,B05XA06,Básico, 
 62,heparina sódica,"5.000 unidades
-internacionais/0,25 mL",solução injetável,B01AB01,Básico,
+internacionais/0,25 mL",solução injetável,B01AB01,Básico, 
 63,iloprosta,10 microgramas/mL,"solução para
-nebulização",B01AC11,Especializado,
+nebulização",B01AC11,Especializado, 
 64,"sacarato de
-hidróxido férrico",20 mg/mL,solução injetável,B03AC,Especializado,
-65,selexipague,"0,2 mg",comprimido,B01AC27,Especializado,
-66,selexipague,"0,4 mg",comprimido,B01AC27,Especializado,
-67,selexipague,"0,6 mg",comprimido,B01AC27,Especializado,
-68,selexipague,"0,8 mg",comprimido,B01AC27,Especializado,
-69,selexipague,1 mg,comprimido,B01AC27,Especializado,
-70,selexipague,"1,2 mg",comprimido,B01AC27,Especializado,
-71,selexipague,"1,4 mg",comprimido,B01AC27,Especializado,
-72,selexipague,"1,6 mg",comprimido,B01AC27,Especializado,
+hidróxido férrico",20 mg/mL,solução injetável,B03AC,Especializado, 
+65,selexipague,"0,2 mg",comprimido,B01AC27,Especializado, 
+66,selexipague,"0,4 mg",comprimido,B01AC27,Especializado, 
+67,selexipague,"0,6 mg",comprimido,B01AC27,Especializado, 
+68,selexipague,"0,8 mg",comprimido,B01AC27,Especializado, 
+69,selexipague,1 mg,comprimido,B01AC27,Especializado, 
+70,selexipague,"1,2 mg",comprimido,B01AC27,Especializado, 
+71,selexipague,"1,4 mg",comprimido,B01AC27,Especializado, 
+72,selexipague,"1,6 mg",comprimido,B01AC27,Especializado, 
 73,"solução ringer +
 lactato","lactato de sódio 3 mg/
 mL + cloreto de sódio
 6 mg/mL + cloreto de
 potássio 0,3 mg/mL +
 cloreto de cálcio 0,2 mg/
-mL",solução injetável,B05BB01,Básico,
+mL",solução injetável,B05BB01,Básico, 
 74,sulfato ferroso,"5 mg/mL (Ferro
-elementar)",xarope,B03AA07,Básico,
+elementar)",xarope,B03AA07,Básico, 
 75,sulfato ferroso,"25 mg/mL (Ferro
-elementar)",solução oral,B03AA07,Básico,
-76,sulfato ferroso,40 mg (Ferro elementar),comprimido,B03AA07,Básico,
+elementar)",solução oral,B03AA07,Básico, 
+76,sulfato ferroso,40 mg (Ferro elementar),comprimido,B03AA07,Básico, 
 77,tenecteplase,30 mg,"pó para solução
-injetável",B01AD11,Hospitalar,
+injetável",B01AD11,Hospitalar, 
 78,tenecteplase,40 mg,"pó para solução
-injetável",B01AD11,Hospitalar,
+injetável",B01AD11,Hospitalar, 
 79,tenecteplase,50 mg,"pó para solução
-injetável",B01AD11,Hospitalar,
-80,varfarina sódica,1 mg,comprimido,B01AA03,Básico,
-81,varfarina sódica,5 mg,comprimido,B01AA03,Básico,
+injetável",B01AD11,Hospitalar, 
+80,varfarina sódica,1 mg,comprimido,B01AA03,Básico, 
+81,varfarina sódica,5 mg,comprimido,B01AA03,Básico, 
 0,ácido nicotínico,500 mg,"comprimido
 de liberação
-prolongada",C10AD02,Especializado,
-1,ambrisentana,5 mg,comprimido,C02KX02,Especializado,
-2,ambrisentana,10 mg,comprimido,C02KX02,Especializado,
-3,anlodipino,5 mg,comprimido,C08CA01,Básico,
-4,anlodipino,10 mg,comprimido,C08CA01,Básico,
-5,atenolol,50 mg,comprimido,C07AB03,Básico,
-6,atenolol,100 mg,comprimido,C07AB03,Básico,
+prolongada",C10AD02,Especializado, 
+1,ambrisentana,5 mg,comprimido,C02KX02,Especializado, 
+2,ambrisentana,10 mg,comprimido,C02KX02,Especializado, 
+3,anlodipino,5 mg,comprimido,C08CA01,Básico, 
+4,anlodipino,10 mg,comprimido,C08CA01,Básico, 
+5,atenolol,50 mg,comprimido,C07AB03,Básico, 
+6,atenolol,100 mg,comprimido,C07AB03,Básico, 
 7,"atorvastatina
-cálcica",10 mg,comprimido,C10AA05,Especializado,
+cálcica",10 mg,comprimido,C10AA05,Especializado, 
 8,"atorvastatina
-cálcica",20 mg,comprimido,C10AA05,Especializado,
+cálcica",20 mg,comprimido,C10AA05,Especializado, 
 9,"atorvastatina
-cálcica",40 mg,comprimido,C10AA05,Especializado,
+cálcica",40 mg,comprimido,C10AA05,Especializado, 
 10,"atorvastatina
-cálcica",80 mg,comprimido,C10AA05,Especializado,
-11,bezafibrato,200 mg,comprimido,C10AB02,Especializado,
+cálcica",80 mg,comprimido,C10AA05,Especializado, 
+11,bezafibrato,200 mg,comprimido,C10AB02,Especializado, 
 12,bezafibrato,400 mg,"comprimido
 de liberação
-prolongada",C10AB02,Especializado,
-13,bosentana,"62,5 mg",comprimido,C02KX01,Especializado,
-14,bosentana,125 mg,comprimido,C02KX01,Especializado,
-15,captopril,25 mg,comprimido,C09AA01,Básico,
-16,carvedilol,"3,125 mg",comprimido,C07AG02,Básico,
-17,carvedilol,"6,25 mg",comprimido,C07AG02,Básico,
-18,carvedilol,"12,5 mg",comprimido,C07AG02,Básico,
-19,carvedilol,25 mg,comprimido,C07AG02,Básico,
-20,ciprofibrato,100 mg,comprimido,C10AB08,Especializado,
+prolongada",C10AB02,Especializado, 
+13,bosentana,"62,5 mg",comprimido,C02KX01,Especializado, 
+14,bosentana,125 mg,comprimido,C02KX01,Especializado, 
+15,captopril,25 mg,comprimido,C09AA01,Básico, 
+16,carvedilol,"3,125 mg",comprimido,C07AG02,Básico, 
+17,carvedilol,"6,25 mg",comprimido,C07AG02,Básico, 
+18,carvedilol,"12,5 mg",comprimido,C07AG02,Básico, 
+19,carvedilol,25 mg,comprimido,C07AG02,Básico, 
+20,ciprofibrato,100 mg,comprimido,C10AB08,Especializado, 
 21,"citrato de
-sildenafila",20 mg,comprimido,C01CE,Especializado,
+sildenafila",20 mg,comprimido,C01CE,Especializado, 
 22,"citrato de
-sildenafila",25 mg,comprimido,C01CE,Especializado,
+sildenafila",25 mg,comprimido,C01CE,Especializado, 
 23,"citrato de
-sildenafila",50 mg,comprimido,C01CE,Especializado,
+sildenafila",50 mg,comprimido,C01CE,Especializado, 
 24,"cloridrato de
-amiodarona",50 mg/mL,solução injetável,C01BD01,Básico,
+amiodarona",50 mg/mL,solução injetável,C01BD01,Básico, 
 25,"cloridrato de
-amiodarona",200 mg,comprimido,C01BD01,Básico,
+amiodarona",200 mg,comprimido,C01BD01,Básico, 
 26,"cloridrato de
-dobutamina","12,5 mg/mL",solução injetável,C01CA07,Básico,
-27,cloridrato de dopamina,5 mg/mL,solução injetável,C01CA04,Básico,
+dobutamina","12,5 mg/mL",solução injetável,C01CA07,Básico, 
+27,cloridrato de dopamina,5 mg/mL,solução injetável,C01CA04,Básico, 
 28,"cloridrato de
-hidralazina",25 mg,comprimido,C02DB02,Básico,
+hidralazina",25 mg,comprimido,C02DB02,Básico, 
 29,"cloridrato de
-hidralazina",50 mg,comprimido,C02DB02,Básico,
+hidralazina",50 mg,comprimido,C02DB02,Básico, 
 30,"cloridrato de
 lidocaína",10 mg/mL (1%),solução injetável,"C01BB01;
-N01BB02",Básico,
+N01BB02",Básico, 
 31,"cloridrato de
 lidocaína",20 mg/mL (2%),solução injetável,"C01BB01;
-N01BB02",Básico,
+N01BB02",Básico, 
 32,"cloridrato de
-propafenona",300 mg,comprimido,C01BC03,Básico,
+propafenona",300 mg,comprimido,C01BC03,Básico, 
 33,"cloridrato de
-propafenona",150 mg,comprimido,C01BC03,Básico,
+propafenona",150 mg,comprimido,C01BC03,Básico, 
 34,"cloridrato de
-propranolol",10 mg,comprimido,C07AA05,Básico,
+propranolol",10 mg,comprimido,C07AA05,Básico, 
 35,"cloridrato de
-propranolol",40 mg,comprimido,C07AA05,Básico,
+propranolol",40 mg,comprimido,C07AA05,Básico, 
 36,"cloridrato de
-verapamil",80 mg,comprimido,C08DA01,Básico,
+verapamil",80 mg,comprimido,C08DA01,Básico, 
 37,"cloridrato de
-verapamil","2,5 mg/mL",solução injetável,C08DA01,Básico,
+verapamil","2,5 mg/mL",solução injetável,C08DA01,Básico, 
 38,"cloridrato de
-verapamil",120 mg,comprimido,C08DA01,Básico,
-39,digoxina,"0,25 mg",comprimido,C01AA05,Básico,
-40,digoxina,"0,05 mg/mL",elixir,C01AA05,Básico,
+verapamil",120 mg,comprimido,C08DA01,Básico, 
+39,digoxina,"0,25 mg",comprimido,C01AA05,Básico, 
+40,digoxina,"0,05 mg/mL",elixir,C01AA05,Básico, 
 41,"dinitrato de
 isossorbida",5 mg,"comprimido
-sublingual",C01DA08,Básico,
-42,epinefrina,1 mg/mL,solução injetável,C01CA03,Básico,
-43,espironolactona,25 mg,comprimido,C03DA01,Básico,
-44,espironolactona,100 mg,comprimido,C03DA01,Básico,
-45,etofibrato,500 mg,cápsula,C10AB09,Especializado,
-46,fenofibrato,200 mg,cápsula,C10AB05,Especializado,
+sublingual",C01DA08,Básico, 
+42,epinefrina,1 mg/mL,solução injetável,C01CA03,Básico, 
+43,espironolactona,25 mg,comprimido,C03DA01,Básico, 
+44,espironolactona,100 mg,comprimido,C03DA01,Básico, 
+45,etofibrato,500 mg,cápsula,C10AB09,Especializado, 
+46,fenofibrato,200 mg,cápsula,C10AB05,Especializado, 
 47,fenofibrato,250 mg,"cápsula de
 liberação
-retardada",C10AB05,Especializado,
-48,furosemida,40 mg,comprimido,C03CA01,Básico,
-49,furosemida,10 mg/mL,solução injetável,C03CA01,Básico,
-50,genfibrozila,600 mg,comprimido,C10AB04,Especializado,
-51,genfibrozila,900 mg,comprimido,C10AB04,Especializado,
+retardada",C10AB05,Especializado, 
+48,furosemida,40 mg,comprimido,C03CA01,Básico, 
+49,furosemida,10 mg/mL,solução injetável,C03CA01,Básico, 
+50,genfibrozila,600 mg,comprimido,C10AB04,Especializado, 
+51,genfibrozila,900 mg,comprimido,C10AB04,Especializado, 
 52,"hemitartarato de
-norepinefrina",2 mg/mL,solução injetável,C01CA24,Básico,
-53,hidroclorotiazida,"12,5 mg",comprimido,C03AA03,Básico,
-54,hidroclorotiazida,25 mg,comprimido,C03AA03,Básico,
+norepinefrina",2 mg/mL,solução injetável,C01CA24,Básico, 
+53,hidroclorotiazida,"12,5 mg",comprimido,C03AA03,Básico, 
+54,hidroclorotiazida,25 mg,comprimido,C03AA03,Básico, 
 55,"losartana
-potássica",50 mg,comprimido,C09CA01,Básico,
+potássica",50 mg,comprimido,C09CA01,Básico, 
 56,"maleato de
-enalapril",5 mg,comprimido,C09AA02,Básico,
+enalapril",5 mg,comprimido,C09AA02,Básico, 
 57,"maleato de
-enalapril",10 mg,comprimido,C09AA02,Básico,
+enalapril",10 mg,comprimido,C09AA02,Básico, 
 58,"maleato de
-enalapril",20 mg,comprimido,C09AA02,Básico,
+enalapril",20 mg,comprimido,C09AA02,Básico, 
 59,"mesilato de
-doxazosina",2 mg,comprimido,C02CA04,Básico,
+doxazosina",2 mg,comprimido,C02CA04,Básico, 
 60,"mesilato de
-doxazosina",4 mg,comprimido,C02CA04,Básico,
-61,metildopa,250 mg,comprimido,C02AB01,Básico,
+doxazosina",4 mg,comprimido,C02CA04,Básico, 
+61,metildopa,250 mg,comprimido,C02AB01,Básico, 
 62,"mononitrato de
-isossorbida",20 mg,comprimido,C01DA14,Básico,
+isossorbida",20 mg,comprimido,C01DA14,Básico, 
 63,"mononitrato de
-isossorbida",40 mg,comprimido,C01DA14,Básico,
-64,pentoxifilina,400 mg,comprimido,C04AD03,Estratégico,
+isossorbida",40 mg,comprimido,C01DA14,Básico, 
+64,pentoxifilina,400 mg,comprimido,C04AD03,Estratégico, 
 65,"pravastatina
-sódica",10 mg,comprimido,C10AA03,Especializado,
+sódica",10 mg,comprimido,C10AA03,Especializado, 
 66,"pravastatina
-sódica",20 mg,comprimido,C10AA03,Especializado,
+sódica",20 mg,comprimido,C10AA03,Especializado, 
 67,"pravastatina
-sódica",40 mg,comprimido,C10AA03,Especializado,
+sódica",40 mg,comprimido,C10AA03,Especializado, 
 68,"sacubitril
 valsartana sódica
-hidratada",50 mg,comprimido,C09DX04,Especializado,
+hidratada",50 mg,comprimido,C09DX04,Especializado, 
 69,"sacubitril
 valsartana sódica
-hidratada",100 mg,comprimido,C09DX04,Especializado,
+hidratada",100 mg,comprimido,C09DX04,Especializado, 
 70,"sacubitril
 valsartana sódica
-hidratada",200 mg,comprimido,C09DX04,Especializado,
-71,sinvastatina,20 mg,comprimido,C10AA01,Básico,
-72,sinvastatina,40 mg,comprimido,C10AA01,Básico,
-73,sinvastatina,10 mg,comprimido,C10AA01,Básico,
+hidratada",200 mg,comprimido,C09DX04,Especializado, 
+71,sinvastatina,20 mg,comprimido,C10AA01,Básico, 
+72,sinvastatina,40 mg,comprimido,C10AA01,Básico, 
+73,sinvastatina,10 mg,comprimido,C10AA01,Básico, 
 74,"succinato de
 metoprolol",25 mg,"comprimido
 de liberação
-prolongada",C07AB02,Básico,
+prolongada",C07AB02,Básico, 
 75,"succinato de
 metoprolol",50 mg,"comprimido
 de liberação
-prolongada",C07AB02,Básico,
+prolongada",C07AB02,Básico, 
 76,"succinato de
 metoprolol",100 mg,"comprimido
 de liberação
-prolongada",C07AB02,Básico,
+prolongada",C07AB02,Básico, 
 77,"tartarato de
-metoprolol",100 mg,comprimido,C07AB02,Básico,
+metoprolol",100 mg,comprimido,C07AB02,Básico, 
 0,"acetato de
-hidrocortisona",10 mg/g (1%),creme,D07AA02,Básico,
-1,aciclovir,50 mg/g (5%),creme,D06BB03,Básico,
-2,ácido salicílico,50 mg/g (5%) (FN),pomada,D02AF,Básico,
-3,acitretina,10 mg,cápsula,D05BB02,Especializado,
-4,acitretina,25 mg,cápsula,D05BB02,Especializado,
+hidrocortisona",10 mg/g (1%),creme,D07AA02,Básico, 
+1,aciclovir,50 mg/g (5%),creme,D06BB03,Básico, 
+2,ácido salicílico,50 mg/g (5%) (FN),pomada,D02AF,Básico, 
+3,acitretina,10 mg,cápsula,D05BB02,Especializado, 
+4,acitretina,25 mg,cápsula,D05BB02,Especializado, 
 5,"alcatrão mineral
-(FN)",10 mg/g (1%),pomada,D05AA,Básico,
-6,álcool etílico,70% (FN),gel,D08AX08,Insumos (Básico),
-7,álcool etílico,70% (FN),solução,D08AX08,Insumos (Básico),
+(FN)",10 mg/g (1%),pomada,D05AA,Básico, 
+6,álcool etílico,70% (FN),gel,D08AX08,Insumos (Básico), 
+7,álcool etílico,70% (FN),solução,D08AX08,Insumos (Básico), 
 8,calcipotriol,"50 microgramas/g
-(0,005%)",pomada,D05AX02,Especializado,
-9,cetoconazol,20 mg/g (2%),xampu,D01AC08,Básico,
+(0,005%)",pomada,D05AX02,Especializado, 
+9,cetoconazol,20 mg/g (2%),xampu,D01AC08,Básico, 
 10,"cloridrato de
-lidocaína",20 mg/g (2%),gel,D04AB01,Básico,
-11,dexametasona,"1 mg/g (0,1%)",creme,D07AB19,Básico,
+lidocaína",20 mg/g (2%),gel,D04AB01,Básico, 
+11,dexametasona,"1 mg/g (0,1%)",creme,D07AB19,Básico, 
 12,digliconato de clorexidina,2% a 4%,"solução para uso
-tópico",D08AC02,Básico,
-13,fosfato de clindamicina,10 mg/g,solução tópica,D10AF01,Básico,
-14,fosfato de clindamicina,10 mg/g,gel,D10AF01,Básico,
-15,imiquimode,50 mg/g,creme,D06BB10,Básico,
-16,isotretinoína,10 mg,cápsula mole,D10BA01,Especializado,
-17,isotretinoína,20 mg,cápsula mole,D10BA01,Especializado,
-18,nitrato de miconazol,2% (20 mg/g),loção,D01AC02,Básico,
-19,nitrato de miconazol,2% (20 mg/g),pó,D01AC02,Básico,
+tópico",D08AC02,Básico, 
+13,fosfato de clindamicina,10 mg/g,solução tópica,D10AF01,Básico, 
+14,fosfato de clindamicina,10 mg/g,gel,D10AF01,Básico, 
+15,imiquimode,50 mg/g,creme,D06BB10,Básico, 
+16,isotretinoína,10 mg,cápsula mole,D10BA01,Especializado, 
+17,isotretinoína,20 mg,cápsula mole,D10BA01,Especializado, 
+18,nitrato de miconazol,2% (20 mg/g),loção,D01AC02,Básico, 
+19,nitrato de miconazol,2% (20 mg/g),pó,D01AC02,Básico, 
 20,"nitrato de
-miconazol",2% (20 mg/g),creme,D01AC02,Básico,
+miconazol",2% (20 mg/g),creme,D01AC02,Básico, 
 21,óleo mineral,,"óleo para uso
-oral",D02AC,Básico,
-22,pasta-d'água,FN,pasta,D02AB,Básico,
+oral",D02AC,Básico, 
+22,pasta-d'água,FN,pasta,D02AB,Básico, 
 23,permanganato de potássio,100 mg,"comprimido para
-uso tópico",D08AX06,Básico,
-24,permanganato de potássio,100 mg (FN),pó,D08AX06,Básico,
+uso tópico",D08AX06,Básico, 
+24,permanganato de potássio,100 mg (FN),pó,D08AX06,Básico, 
 25,"peróxido de
-benzoíla","25 mg/g (2,5%) (FN)",gel,D10AE01,Básico,
+benzoíla","25 mg/g (2,5%) (FN)",gel,D10AE01,Básico, 
 26,"peróxido de
-benzoíla",50 mg/g (5%) (FN),gel,D10AE01,Básico,
+benzoíla",50 mg/g (5%) (FN),gel,D10AE01,Básico, 
 27,podofilina,"100 mg/mL (10%) a 250
 mg/mL (25%) (FN)","solução para uso
-tópico",D11AF,Básico,
-28,podofilotoxina,"1,5 mg/g",creme,D06BB04,Básico,
+tópico",D11AF,Básico, 
+28,podofilotoxina,"1,5 mg/g",creme,D06BB04,Básico, 
 29,"propionato de
-clobetasol","0,5 mg/g",creme,D07AD01,Especializado,
+clobetasol","0,5 mg/g",creme,D07AD01,Especializado, 
 30,"propionato de
-clobetasol","0,5 mg/g",solução capilar,D07AD01,Especializado,
-31,sulfadiazina de prata,10 mg/g (1%),creme,D06BA01,Básico,
+clobetasol","0,5 mg/g",solução capilar,D07AD01,Especializado, 
+31,sulfadiazina de prata,10 mg/g (1%),creme,D06BA01,Básico, 
 0,"acetato de
-ciproterona",50 mg,comprimido,G03HA01,Especializado,
+ciproterona",50 mg,comprimido,G03HA01,Especializado, 
 1,"acetato de
 droxiprogesterona",50 mg/mL,"suspensão
-injetável",G03AC06,Básico,
+injetável",G03AC06,Básico, 
 2,"acetato de
 droxiprogesterona",150 mg/mL,"suspensão
-injetável",G03AC06,Básico,
+injetável",G03AC06,Básico, 
 3,"acetato de
-droxiprogesterona",10 mg,comprimido,G03DA02,Básico,
+droxiprogesterona",10 mg,comprimido,G03DA02,Básico, 
 4,cabergolina,"0,5 mg",comprimido,"G02CB03;
 N04BC06","Básico,
 Especializado e
-Hospitalar",
+Hospitalar", 
 5,"cloridrato de
-raloxifeno",60 mg,comprimido,G03XC01,Especializado,
-6,danazol,100 mg,cápsula,G03XA01,Especializado,
-7,danazol,200 mg,cápsula,G03XA01,Especializado,
+raloxifeno",60 mg,comprimido,G03XC01,Especializado, 
+6,danazol,100 mg,cápsula,G03XA01,Especializado, 
+7,danazol,200 mg,cápsula,G03XA01,Especializado, 
 8,dispositivo intrauterino plástico com cobre,,"modelo T 380
-mm2",G02BA02,Insumos (Básico),
+mm2",G02BA02,Insumos (Básico), 
 9,"enantato de
 noretisterona
 + valerato de
-estradiol",50 mg/mL + 5 mg/mL,solução injetável,G03AA05,Básico,
-10,estriol,1 mg/g,creme vaginal,G03CA04,Básico,
+estradiol",50 mg/mL + 5 mg/mL,solução injetável,G03AA05,Básico, 
+10,estriol,1 mg/g,creme vaginal,G03CA04,Básico, 
 11,"estrogênios
-conjugados","0,625 mg/g",creme vaginal,G03CA57,Básico,
+conjugados","0,625 mg/g",creme vaginal,G03CA57,Básico, 
 12,"estrogênios
-conjugados","0,3 mg",comprimido,G03CA57,Básico,
+conjugados","0,3 mg",comprimido,G03CA57,Básico, 
 13,"etinilestradiol +
-levonorgestrel","0,03 mg + 0,15 mg",comprimido,G03AA07,Básico,
-14,finasterida,5 mg,comprimido,G04CB01,Básico,
-15,levonorgestrel,"0,75 mg",comprimido,G03AC03,Básico,
-16,levonorgestrel,"1,5 mg",comprimido,G03AC03,Básico,
-17,metronidazol,100 mg/g (10%),gel vaginal,G01AF01,Básico,
+levonorgestrel","0,03 mg + 0,15 mg",comprimido,G03AA07,Básico, 
+14,finasterida,5 mg,comprimido,G04CB01,Básico, 
+15,levonorgestrel,"0,75 mg",comprimido,G03AC03,Básico, 
+16,levonorgestrel,"1,5 mg",comprimido,G03AC03,Básico, 
+17,metronidazol,100 mg/g (10%),gel vaginal,G01AF01,Básico, 
 18,misoprostol,25 microgramas,"comprimido
-vaginal",G02AD06,Básico,
+vaginal",G02AD06,Básico, 
 19,misoprostol,200 microgramas,"comprimido
-vaginal",G02AD06,Básico,
-20,nifedipino,10 mg,cápsula,G02C,Básico,
-21,nifedipino,10 mg,comprimido,G02C,Básico,
+vaginal",G02AD06,Básico, 
+20,nifedipino,10 mg,cápsula,G02C,Básico, 
+21,nifedipino,10 mg,comprimido,G02C,Básico, 
 22,"nitrato de
-miconazol",2% (20 mg/g),creme vaginal,G01AF04,Básico,
-23,noretisterona,"0,35 mg",comprimido,G03AC01,Básico,
+miconazol",2% (20 mg/g),creme vaginal,G01AF04,Básico, 
+23,noretisterona,"0,35 mg",comprimido,G03AC01,Básico, 
 0,"acetato de
 betametasona +
 fosfato dissódico
 de betametasona",3 mg/mL + 3 mg/mL,"suspensão
-injetável",H02AB01,Básico,
+injetável",H02AB01,Básico, 
 1,"acetato de
-desmopressina","0,1 mg",comprimido,H01BA02,Especializado,
+desmopressina","0,1 mg",comprimido,H01BA02,Especializado, 
 2,"acetato de
-desmopressina","0,2 mg",comprimido,H01BA02,Especializado,
+desmopressina","0,2 mg",comprimido,H01BA02,Especializado, 
 3,"acetato de
-desmopressina",4 microgramas/mL,solução injetável,H01BA02,Estratégico,
+desmopressina",4 microgramas/mL,solução injetável,H01BA02,Estratégico, 
 4,"acetato de
-desmopressina",15 microgramas/mL,solução injetável,H01BA02,Estratégico,
+desmopressina",15 microgramas/mL,solução injetável,H01BA02,Estratégico, 
 5,"acetato de
-desmopressina","0,1 mg/mL",solução nasal,H01BA02,Especializado,
+desmopressina","0,1 mg/mL",solução nasal,H01BA02,Especializado, 
 6,"acetato de
-fludrocortisona","0,1 mg",comprimido,H02AA02,Especializado,
+fludrocortisona","0,1 mg",comprimido,H02AA02,Especializado, 
 7,"acetato de
-lanreotida",60 mg,solução injetável,H01CB03,Especializado,
+lanreotida",60 mg,solução injetável,H01CB03,Especializado, 
 8,"acetato de
-lanreotida",90 mg,solução injetável,H01CB03,Especializado,
+lanreotida",90 mg,solução injetável,H01CB03,Especializado, 
 9,"acetato de
-lanreotida",120 mg,solução injetável,H01CB03,Especializado,
+lanreotida",120 mg,solução injetável,H01CB03,Especializado, 
 10,"acetato de
 octreotida",10 mg,"pó para
 suspensão
-injetável",H01CB02,Especializado,
+injetável",H01CB02,Especializado, 
 11,"acetato de
 octreotida",20 mg,"pó para
 suspensão
-injetável",H01CB02,Especializado,
+injetável",H01CB02,Especializado, 
 12,"acetato de
 octreotida",30 mg,"pó para
 suspensão
-injetável",H01CB02,Especializado,
+injetável",H01CB02,Especializado, 
 13,"acetato de
-octreotida","0,1 mg/mL",solução injetável,H01CB02,Especializado,
+octreotida","0,1 mg/mL",solução injetável,H01CB02,Especializado, 
 14,calcitonina,"200 unidades
 internacionais/dose","solução spray
-nasal",H05BA,Especializado,
+nasal",H05BA,Especializado, 
 15,"cloridrato de
-cinacalcete",60 mg,comprimido,H05BX01,Especializado,
+cinacalcete",60 mg,comprimido,H05BX01,Especializado, 
 16,"cloridrato de
-cinacalcete",30 mg,comprimido,H05BX01,Especializado,
-17,dexametasona,4 mg,comprimido,H02AB02,Básico,
-18,dexametasona,"0,1 mg/mL",elixir,H02AB02,Básico,
+cinacalcete",30 mg,comprimido,H05BX01,Especializado, 
+17,dexametasona,4 mg,comprimido,H02AB02,Básico, 
+18,dexametasona,"0,1 mg/mL",elixir,H02AB02,Básico, 
 19,"fosfato dissódico
-de dexametasona",4 mg/mL,solução injetável,H02AB02,Básico,
+de dexametasona",4 mg/mL,solução injetável,H02AB02,Básico, 
 20,"fosfato sódico de
-prednisolona",1 mg/mL,solução oral,H02AB06,Básico,
+prednisolona",1 mg/mL,solução oral,H02AB06,Básico, 
 21,"fosfato sódico de
-prednisolona",3 mg/mL,solução oral,H02AB06,Básico,
+prednisolona",3 mg/mL,solução oral,H02AB06,Básico, 
 22,iodo + iodeto de potássio,20 mg/mL + 40 mg/mL,"solução para uso
-tópico",H03CA,Insumos (Básico),
-23,levotiroxina sódica,"12,5 microgramas",comprimido,H03AA01,Básico,
-24,levotiroxina sódica,25 microgramas,comprimido,H03AA01,Básico,
-25,levotiroxina sódica,"37,5 microgramas",comprimido,H03AA01,Básico,
-26,levotiroxina sódica,50 microgramas,comprimido,H03AA01,Básico,
-27,levotiroxina sódica,100 microgramas,comprimido,H03AA01,Básico,
+tópico",H03CA,Insumos (Básico), 
+23,levotiroxina sódica,"12,5 microgramas",comprimido,H03AA01,Básico, 
+24,levotiroxina sódica,25 microgramas,comprimido,H03AA01,Básico, 
+25,levotiroxina sódica,"37,5 microgramas",comprimido,H03AA01,Básico, 
+26,levotiroxina sódica,50 microgramas,comprimido,H03AA01,Básico, 
+27,levotiroxina sódica,100 microgramas,comprimido,H03AA01,Básico, 
 28,metilprednisolona,500 mg,"pó para solução
 injetável",H02AB04,"Especializado e
-Hospitalar",
-29,paricalcitol,5 microgramas/mL,solução injetável,H05BX02,Especializado,
+Hospitalar", 
+29,paricalcitol,5 microgramas/mL,solução injetável,H05BX02,Especializado, 
 30,prednisona,20 mg,comprimido,H02AB07,"Básico e
-Estratégico",
+Estratégico", 
 31,,5 mg,comprimido,H02AB07,"Básico e
-Estratégico",
-32,propiltiouracila,100 mg,comprimido,H03BA02,Básico,
+Estratégico", 
+32,propiltiouracila,100 mg,comprimido,H03BA02,Básico, 
 33,somatropina,4 unidades internacionais,"pó para solução
-injetável",H01AC01,Especializado,
+injetável",H01AC01,Especializado, 
 34,somatropina,"12 unidades
 internacionais","pó para solução
-injetável",H01AC01,Especializado,
+injetável",H01AC01,Especializado, 
 35,somatropina,"15 unidades
 internacionais","pó para solução
-injetável",H01AC01,Especializado,
+injetável",H01AC01,Especializado, 
 36,somatropina,"16 unidades
 internacionais","pó para solução
-injetável",H01AC01,Especializado,
+injetável",H01AC01,Especializado, 
 37,somatropina,"24 unidades
 internacionais","pó para solução
-injetável",H01AC01,Especializado,
+injetável",H01AC01,Especializado, 
 38,somatropina,"30 unidades
 internacionais","pó para solução
-injetável",H01AC01,Especializado,
-39,somatropina,4 unidades internacionais,solução injetável,H01AC01,Especializado,
+injetável",H01AC01,Especializado, 
+39,somatropina,4 unidades internacionais,solução injetável,H01AC01,Especializado, 
 40,somatropina,"12 unidades
-internacionais",solução injetável,H01AC01,Especializado,
+internacionais",solução injetável,H01AC01,Especializado, 
 41,somatropina,"15 unidades
-internacionais",solução injetável,H01AC01,Especializado,
+internacionais",solução injetável,H01AC01,Especializado, 
 42,somatropina,"16 unidades
-internacionais",solução injetável,H01AC01,Especializado,
+internacionais",solução injetável,H01AC01,Especializado, 
 43,somatropina,"18 unidades
-internacionais",solução injetável,H01AC01,Especializado,
+internacionais",solução injetável,H01AC01,Especializado, 
 44,somatropina,"30 unidades
-internacionais",solução injetável,H01AC01,Especializado,
+internacionais",solução injetável,H01AC01,Especializado, 
 45,succinato sódico de hidrocortisona,100 mg,"pó para solução
-injetável",H02AB09,Básico,
+injetável",H02AB09,Básico, 
 46,succinato sódico de hidrocortisona,500 mg,"pó para solução
-injetável",H02AB09,Básico,
-47,tiamazol,5 mg,comprimido,H03BB02,Básico,
-48,tiamazol,10 mg,comprimido,H03BB02,Básico,
+injetável",H02AB09,Básico, 
+47,tiamazol,5 mg,comprimido,H03BB02,Básico, 
+48,tiamazol,10 mg,comprimido,H03BB02,Básico, 
 0,aciclovir,200 mg,comprimido,J05AB01,Básico,
 1,aciclovir,250 mg,"pó para
 solução
@@ -1205,25 +1205,25 @@ injetável",J01GA01,Estratégico,Alerta
 inalatória",J01GB01,Especializado,Alerta
 174,"vacina adsorvida
 difteria e tétano
-Adulto",,"suspensão
+Adulto",300 mg,"suspensão
 injetável",J07AM51,Estratégico,Alerta
 175,"vacina adsorvida
 difteria e tétano
-Infantil",,"suspensão
+Infantil",300 mg,"suspensão
 injetável",J07AM51,Estratégico,Alerta
 176,"vacina adsorvida
 difteria, tétano e
-pertussis",,"suspensão
+pertussis",300 mg,"suspensão
 injetável",J07AJ51,Estratégico,Alerta
 177,"vacina adsorvida
 difteria, tétano e
 pertussis (acelular)
-adulto",,"suspensão
+adulto",300 mg,"suspensão
 injetável",J07AJ51,Estratégico,Alerta
 178,"vacina adsorvida
 difteria, tétano e
 pertussis (acelular)
-infantil",,"suspensão
+infantil",300 mg,"suspensão
 injetável",J07AJ51,Estratégico,Alerta
 179,"vacina adsorvida
 difteria, tétano,
@@ -1231,96 +1231,96 @@ pertussis, hepatite
 B (recombinante)
 e Haemophilus
 influenzae B
-(conjugada)",,"suspensão
+(conjugada)",300 mg,"suspensão
 injetável",J07CA11,Estratégico,Alerta
 180,"vacina adsorvida
 hepatite A
-(inativada) adulto",,"suspensão
+(inativada) adulto",300 mg,"suspensão
 injetável",J07BC02,Estratégico,Alerta
 181,"vacina adsorvida
 hepatite A
-(inativada) infantil",,"suspensão
+(inativada) infantil",300 mg,"suspensão
 injetável",J07BC02,Estratégico,Alerta
-182,vacina BCG,,"pó para
+182,vacina BCG,300 mg,"pó para
 suspensão
 injetável",J07AN01,Estratégico,Alerta
 183,"vacina cólera
-(inativada)",,"suspensão
+(inativada)",300 mg,"suspensão
 oral",J07AE01,Estratégico,Alerta
 184,"vacina febre
-amarela (atenuada)",,"pó para
+amarela (atenuada)",300 mg,"pó para
 solução
 injetável",J07BL01,Estratégico,Alerta
 185,"vacina febre tifoide
-(polissacarídica)",,"solução
+(polissacarídica)",300 mg,"solução
 injetável",J07AP03,Estratégico,Alerta
 186,"vacina
 Haemophilus
 influenzae B
-(conjugada)",,"pó para
+(conjugada)",300 mg,"pó para
 solução
 injetável",J07AG01,Estratégico,Alerta
 187,"vacina hepatite B
-(recombinante)",,"suspensão
+(recombinante)",300 mg,"suspensão
 injetável",J07BC01,Estratégico,Alerta
 188,"vacina influenza
 trivalente
 (fragmentada,
-inativada)",,"suspensão
+inativada)",300 mg,"suspensão
 injetável",J07BB02,Estratégico,Alerta
 189,"vacina
 meningocócica
-ACWY (conjugada)",,"solução
+ACWY (conjugada)",300 mg,"solução
 injetável",J07AH08,Estratégico,Alerta
 190,"vacina
 meningocócica C
-(conjugada)",,"pó para
+(conjugada)",300 mg,"pó para
 suspensão
 injetável",J07AH07,Estratégico,Alerta
 191,"vacina
 papilomavírus
 humano 6, 11, 16 e
-18 (recombinante)",,"suspensão
+18 (recombinante)",300 mg,"suspensão
 injetável",J07BM01,Estratégico,Alerta
 192,"vacina
 pneumocócica
 10-valente
-(conjugada)",,"suspensão
+(conjugada)",300 mg,"suspensão
 injetável",J07AL02,Estratégico,Alerta
 193,"vacina
 pneumocócica
 13-valente
-(conjugada)",,"solução
+(conjugada)",300 mg,"solução
 injetável",J07AL02,Estratégico,Alerta
 194,"vacina
 pneumocócica
 23-valente
-(polissacarídica)",,"solução
+(polissacarídica)",300 mg,"solução
 injetável",J07AL01,Estratégico,Alerta
 195,"vacina poliomielite
-1 e 3 (atenuada)",,solução oral,J07BF02,Estratégico,Alerta
+1 e 3 (atenuada)",300 mg,solução oral,J07BF02,Estratégico,Alerta
 196,"vacina poliomielite
-1, 2 e 3 (inativada)",,"solução
+1, 2 e 3 (inativada)",300 mg,"solução
 injetável",J07BF03,Estratégico,Alerta
 197,"vacina raiva
-(inativada)",,"pó para
+(inativada)",300 mg,"pó para
 suspensão
 injetável",J07BG01,Estratégico,Alerta
 198,"vacina rotavírus
 humano G1P [8]
-(atenuada)",,"suspensão
+(atenuada)",300 mg,"suspensão
 oral",J07BH01,Estratégico,Alerta
 199,"vacina sarampo,
-caxumba, rubéola",,"pó para
+caxumba, rubéola",300 mg,"pó para
 solução
 injetável",J07BD52,Estratégico,Alerta
 200,"vacina sarampo,
 caxumba, rubéola e
-varicela (atenuada)",,"pó para
+varicela (atenuada)",300 mg,"pó para
 solução
 injetável",J07BD54,Estratégico,Alerta
 201,"vacina varicela
-(atenuada)",,"pó para
+(atenuada)",300 mg,"pó para
 solução
 injetável",J07BK01,Estratégico,Alerta
 202,zanamivir,5 mg,"pó para
@@ -1331,579 +1331,579 @@ injetável",J05AF01,Estratégico,Alerta
 205,zidovudina,10 mg/mL,solução oral,J05AF01,Estratégico,Alerta
 206,zidovudina + lamivudina,300 mg + 150 mg,comprimido,J05AR01,Estratégico,Alerta
 0,abatacepte,250 mg,"pó para solução
-injetável",L04AA24,Especializado,
-1,abatacepte,125 mg/mL,solução injetável,L04AA24,Especializado,
-2,acetato de glatirâmer,20 mg,solução injetável,L03AX13,Especializado,
-3,acetato de glatirâmer,40 mg,solução injetável,L03AX13,Especializado,
+injetável",L04AA24,Especializado, 
+1,abatacepte,125 mg/mL,solução injetável,L04AA24,Especializado, 
+2,acetato de glatirâmer,20 mg,solução injetável,L03AX13,Especializado, 
+3,acetato de glatirâmer,40 mg,solução injetável,L03AX13,Especializado, 
 4,"acetato de
 gosserrelina","3,6 mg","implante
-subcutâneo",L02AE03,Especializado,
+subcutâneo",L02AE03,Especializado, 
 5,"acetato de
 gosserrelina","10,8 mg","implante
-subcutâneo",L02AE03,Especializado,
+subcutâneo",L02AE03,Especializado, 
 6,acetato de leuprorrelina,"3,75 mg","pó para
 suspensão
-injetável",L02AE02,Especializado,
+injetável",L02AE02,Especializado, 
 7,acetato de leuprorrelina,"11,25 mg","pó para
 suspensão
-injetável",L02AE02,Especializado,
+injetável",L02AE02,Especializado, 
 8,acetato de leuprorrelina,45 mg,"pó para
 suspensão
-injetável",L02AE02,Especializado,
-9,adalimumabe,40 mg,solução injetável,L04AB04,Especializado,
-10,alentuzumabe,10 mg/mL,solução injetável,L04AA34,Especializado,
+injetável",L02AE02,Especializado, 
+9,adalimumabe,40 mg,solução injetável,L04AB04,Especializado, 
+10,alentuzumabe,10 mg/mL,solução injetável,L04AA34,Especializado, 
 11,alfainterferona 2b,"3.000.000 unidades
 internacionais","pó para solução
-injetável",L03AB05,Especializado,
+injetável",L03AB05,Especializado, 
 12,alfainterferona 2b,"5.000.000 unidades
 internacionais","pó para solução
-injetável",L03AB05,Especializado,
+injetável",L03AB05,Especializado, 
 13,alfainterferona 2b,"10.000.000 unidades
 internacionais","pó para solução
-injetável",L03AB05,Especializado,
-14,alfapeginterferona 2a,180 microgramas,solução injetável,L03AB11,Estratégico,
+injetável",L03AB05,Especializado, 
+14,alfapeginterferona 2a,180 microgramas,solução injetável,L03AB11,Estratégico, 
 15,alfapeginterferona 2b,"118,4 microgramas (80
 microgramas/0,5 mL
 após reconstituição)","pó para solução
-injetável",L03AB10,Estratégico,
+injetável",L03AB10,Estratégico, 
 16,alfapeginterferona 2b,"148 microgramas (100
 microgramas/0,5 mL
 após reconstituição)","pó para solução
-injetável",L03AB10,Estratégico,
+injetável",L03AB10,Estratégico, 
 17,alfapeginterferona 2b,"177,6 microgramas (120
 microgramas/0,5 mL
 após reconstituição)","pó para solução
-injetável",L03AB10,Estratégico,
-18,azatioprina,50 mg,comprimido,L04AX01,Especializado,
-19,baricitinibe,2 mg,comprimido,L04AA37,Especializado,
-20,baricitinibe,4 mg,comprimido,L04AA37,Especializado,
+injetável",L03AB10,Estratégico, 
+18,azatioprina,50 mg,comprimido,L04AX01,Especializado, 
+19,baricitinibe,2 mg,comprimido,L04AA37,Especializado, 
+20,baricitinibe,4 mg,comprimido,L04AA37,Especializado, 
 21,basiliximabe,20 mg,"pó para solução
-injetável",L04AC02,Hospitalar,
+injetável",L04AC02,Hospitalar, 
 22,betainterferona 1a,"22 microgramas
 (6.000.000 unidades
-internacionais)",solução injetável,L03AB07,Especializado,
+internacionais)",solução injetável,L03AB07,Especializado, 
 23,betainterferona 1a,"30 microgramas
 (6.000.000 unidades
-internacionais)",solução injetável,L03AB07,Especializado,
+internacionais)",solução injetável,L03AB07,Especializado, 
 24,betainterferona 1a,"44 microgramas
 (12.000.000 unidades
-internacionais)",solução injetável,L03AB07,Especializado,
+internacionais)",solução injetável,L03AB07,Especializado, 
 25,betainterferona 1b,"300 microgramas
 (9.600.000 unidades
 internacionais)","pó para solução
-injetável",L03AB08,Especializado,
-26,certolizumabe pegol,200 mg,solução injetável,L04AB05,Especializado,
-27,ciclofosfamida,50 mg,comprimido,L01AA01,Especializado,
+injetável",L03AB08,Especializado, 
+26,certolizumabe pegol,200 mg,solução injetável,L04AB05,Especializado, 
+27,ciclofosfamida,50 mg,comprimido,L01AA01,Especializado, 
 28,ciclosporina,10 mg,cápsula mole,L04AD01,"Especializado
-e Hospitalar",
+e Hospitalar", 
 29,ciclosporina,25 mg,cápsula mole,L04AD01,"Especializado
-e Hospitalar",
+e Hospitalar", 
 30,ciclosporina,50 mg,cápsula mole,L04AD01,"Especializado
-e Hospitalar",
+e Hospitalar", 
 31,ciclosporina,100 mg,cápsula mole,L04AD01,"Especializado
-e Hospitalar",
+e Hospitalar", 
 32,ciclosporina,100 mg/mL,solução oral,L04AD01,"Especializado
-e Hospitalar",
-33,ciclosporina,50 mg,solução injetável,L04AD01,Hospitalar,
-34,daclizumabe,5 mg/mL,solução injetável,L04AC01,Hospitalar,
+e Hospitalar", 
+33,ciclosporina,50 mg,solução injetável,L04AD01,Hospitalar, 
+34,daclizumabe,5 mg/mL,solução injetável,L04AC01,Hospitalar, 
 35,eculizumabe,10 mg/ml,"solução para
 diluição para
-infusão",L04AA25,Especializado,
-36,etanercepte,25 mg,solução injetável,L04AB01,Especializado,
-37,etanercepte,50 mg,solução injetável,L04AB01,Especializado,
+infusão",L04AA25,Especializado, 
+36,etanercepte,25 mg,solução injetável,L04AB01,Especializado, 
+37,etanercepte,50 mg,solução injetável,L04AB01,Especializado, 
 38,everolimo,"0,5 mg",comprimido,L04AA18,"Especializado
-e Hospitalar",
+e Hospitalar", 
 39,everolimo,"0,75 mg",comprimido,L04AA18,"Especializado
-e Hospitalar",
+e Hospitalar", 
 40,everolimo,1 mg,comprimido,L04AA18,"Especializado
-e Hospitalar",
-41,filgrastim,300 microgramas,solução injetável,L03AA02,Especializado,
-42,fingolimode,"0,5 mg",cápsula,L04AA27,Especializado,
-43,golimumabe,50 mg,solução injetável,L04AB06,Especializado,
-44,hidroxiureia,500 mg,cápsula,L01XX05,Especializado,
+e Hospitalar", 
+41,filgrastim,300 microgramas,solução injetável,L03AA02,Especializado, 
+42,fingolimode,"0,5 mg",cápsula,L04AA27,Especializado, 
+43,golimumabe,50 mg,solução injetável,L04AB06,Especializado, 
+44,hidroxiureia,500 mg,cápsula,L01XX05,Especializado, 
 45,"imunoglobulina
 antitimócitos
 humanos (coelho)",25 mg,"pó para solução
-injetável",L04AA04,Hospitalar,
+injetável",L04AA04,Hospitalar, 
 46,infliximabe,100 mg,"pó para solução
-injetável",L04AB02,Especializado,
-47,leflunomida,20 mg,comprimido,L04AA13,Especializado,
-48,metotrexato,25 mg/mL,solução injetável,L04AX03,Especializado,
-49,metotrexato,"2,5 mg",comprimido,L04AX03,Especializado,
+injetável",L04AB02,Especializado, 
+47,leflunomida,20 mg,comprimido,L04AA13,Especializado, 
+48,metotrexato,25 mg/mL,solução injetável,L04AX03,Especializado, 
+49,metotrexato,"2,5 mg",comprimido,L04AX03,Especializado, 
 50,"micofenolato
 de mofetila",500 mg,comprimido,L04AA,"Especializado
-e Hospitalar",
+e Hospitalar", 
 51,"micofenolato
 de sódio",180 mg,comprimido,L04AA,"Especializado
-e Hospitalar",
+e Hospitalar", 
 52,"micofenolato
 de sódio",360 mg,comprimido,L04AA,"Especializado
-e Hospitalar",
-53,miltefosina,10 mg,cápsula,L01XX09,Estratégico,
-54,miltefosina,50 mg,cápsula,L01XX09,Estratégico,
-55,natalizumabe,20 mg/mL,solução injetável,L04AA23,Especializado,
-56,risanquizumabe,"75 mg/ 0,83 mL",solução injetável,L04AC18,Especializado,
-57,rituximabe,10 mg/mL,solução injetável,L01XC02,Especializado,
+e Hospitalar", 
+53,miltefosina,10 mg,cápsula,L01XX09,Estratégico, 
+54,miltefosina,50 mg,cápsula,L01XX09,Estratégico, 
+55,natalizumabe,20 mg/mL,solução injetável,L04AA23,Especializado, 
+56,risanquizumabe,"75 mg/ 0,83 mL",solução injetável,L04AC18,Especializado, 
+57,rituximabe,10 mg/mL,solução injetável,L01XC02,Especializado, 
 58,secuquinumabe,150 mg/ml,"pó para solução
-injetável",L04AC10,Especializado,
+injetável",L04AC10,Especializado, 
 59,sirolimo,1 mg,comprimido,L04AA10,"Especializado
-e Hospitalar",
+e Hospitalar", 
 60,sirolimo,2 mg,comprimido,L04AA10,"Especializado
-e Hospitalar",
-61,sirolimo,1 mg/mL,solução oral,L04AA10,Hospitalar,
+e Hospitalar", 
+61,sirolimo,1 mg/mL,solução oral,L04AA10,Hospitalar, 
 62,tacrolimo,1 mg,cápsula,L04AD02,"Especializado
-e Hospitalar",
+e Hospitalar", 
 63,tacrolimo,5 mg,cápsula,L04AD02,"Especializado
-e Hospitalar",
-64,tacrolimo,5 mg/mL,solução injetável,L04AD02,Hospitalar,
-65,talidomida,100 mg,comprimido,L04AX02,Estratégico,
-66,teriflunomida,14 mg,comprimido,L04AA31,Especializado,
-67,tocilizumabe,20 mg/mL,solução injetável,L04AC07,Especializado,
-68,tofacitinibe,5 mg,comprimido,L04AA29,Especializado,
+e Hospitalar", 
+64,tacrolimo,5 mg/mL,solução injetável,L04AD02,Hospitalar, 
+65,talidomida,100 mg,comprimido,L04AX02,Estratégico, 
+66,teriflunomida,14 mg,comprimido,L04AA31,Especializado, 
+67,tocilizumabe,20 mg/mL,solução injetável,L04AC07,Especializado, 
+68,tofacitinibe,5 mg,comprimido,L04AA29,Especializado, 
 69,triptorrelina,"3,75 mg","pó para
 suspensão
-injetável",L02AE04,Especializado,
+injetável",L02AE04,Especializado, 
 70,triptorrelina,"11,25 mg","pó para
 suspensão
-injetável",L02AE04,Especializado,
+injetável",L02AE04,Especializado, 
 71,upadacitinibe,15 mg,"comprimido
 revestido
 de liberação
-prolongada",L04AA44,Especializado,
-72,ustequinumabe,45 mg,solução injetável,L04AC05,Especializado,
+prolongada",L04AA44,Especializado, 
+72,ustequinumabe,45 mg,solução injetável,L04AC05,Especializado, 
 73,vedolizumabe,300 mg,"pó para solução
-injetável",L04AA33,Especializado,
-0,ácido zoledrônico,5 mg/100 mL,solução injetável,M05BA08,Especializado,
-1,alendronato de sódio,10 mg,comprimido,M05BA04,Básico,
-2,alendronato de sódio,70 mg,comprimido,M05BA04,Básico,
-3,alopurinol,100 mg,comprimido,M04AA01,Básico,
-4,alopurinol,300 mg,comprimido,M04AA01,Básico,
-5,burosumabe,10 mg/mL,solução injetável,M05BX05,Especializado,
-6,burosumabe,20 mg/mL,solução injetável,M05BX05,Especializado,
-7,burosumabe,30 mg/mL,solução injetável,M05BX05,Especializado,
-8,ibuprofeno,200 mg,comprimido,M01AE01,Básico,
-9,ibuprofeno,300 mg,comprimido,M01AE01,Básico,
-10,ibuprofeno,600 mg,comprimido,M01AE01,Básico,
-11,ibuprofeno,50 mg/mL,suspensão oral,M01AE01,Básico,
-12,naproxeno,250 mg,comprimido,M01AE02,Especializado,
-13,naproxeno,500 mg,comprimido,M01AE02,Especializado,
-14,nusinersena,"2,4 mg/mL",solução injetável,M09AX07,Especializado,
+injetável",L04AA33,Especializado, 
+0,ácido zoledrônico,5 mg/100 mL,solução injetável,M05BA08,Especializado, 
+1,alendronato de sódio,10 mg,comprimido,M05BA04,Básico, 
+2,alendronato de sódio,70 mg,comprimido,M05BA04,Básico, 
+3,alopurinol,100 mg,comprimido,M04AA01,Básico, 
+4,alopurinol,300 mg,comprimido,M04AA01,Básico, 
+5,burosumabe,10 mg/mL,solução injetável,M05BX05,Especializado, 
+6,burosumabe,20 mg/mL,solução injetável,M05BX05,Especializado, 
+7,burosumabe,30 mg/mL,solução injetável,M05BX05,Especializado, 
+8,ibuprofeno,200 mg,comprimido,M01AE01,Básico, 
+9,ibuprofeno,300 mg,comprimido,M01AE01,Básico, 
+10,ibuprofeno,600 mg,comprimido,M01AE01,Básico, 
+11,ibuprofeno,50 mg/mL,suspensão oral,M01AE01,Básico, 
+12,naproxeno,250 mg,comprimido,M01AE02,Especializado, 
+13,naproxeno,500 mg,comprimido,M01AE02,Especializado, 
+14,nusinersena,"2,4 mg/mL",solução injetável,M09AX07,Especializado, 
 15,"pamidronato
-dissódico",60 mg,solução injetável,M05BA03,Especializado,
-16,penicilamina,250 mg,cápsula,M01CC01,Especializado,
-17,risedronato sódico,35 mg,comprimido,M05BA07,Especializado,
+dissódico",60 mg,solução injetável,M05BA03,Especializado, 
+16,penicilamina,250 mg,cápsula,M01CC01,Especializado, 
+17,risedronato sódico,35 mg,comprimido,M05BA07,Especializado, 
 18,toxina botulínica A,100 unidades,"pó para solução
-injetável",M03AX01,Especializado,
+injetável",M03AX01,Especializado, 
 19,toxina botulínica A,500 unidades,"pó para solução
-injetável",M03AX01,Especializado,
+injetável",M03AX01,Especializado, 
 0,"ácido
-acetilsalicílico",500 mg,comprimido,N02BA01,Básico,
-1,ácido valproico,250 mg,cápsula,N03AG01,Básico,
-2,ácido valproico,250 mg,comprimido,N03AG01,Básico,
-3,ácido valproico,500 mg,comprimido,N03AG01,Básico,
-4,ácido valproico,50 mg/mL,solução oral,N03AG01,Básico,
-5,ácido valproico,50 mg/mL,xarope,N03AG01,Básico,
+acetilsalicílico",500 mg,comprimido,N02BA01,Básico, 
+1,ácido valproico,250 mg,cápsula,N03AG01,Básico, 
+2,ácido valproico,250 mg,comprimido,N03AG01,Básico, 
+3,ácido valproico,500 mg,comprimido,N03AG01,Básico, 
+4,ácido valproico,50 mg/mL,solução oral,N03AG01,Básico, 
+5,ácido valproico,50 mg/mL,xarope,N03AG01,Básico, 
 6,"brometo de
-piridostigmina",60 mg,comprimido,N07AA02,Especializado,
+piridostigmina",60 mg,comprimido,N07AA02,Especializado, 
 7,"bromidrato de
 galantamina",8 mg,"cápsula de
 liberação
-prolongada",N06DA04,Especializado,
+prolongada",N06DA04,Especializado, 
 8,"bromidrato de
 galantamina",16 mg,"cápsula de
 liberação
-prolongada",N06DA04,Especializado,
+prolongada",N06DA04,Especializado, 
 9,"bromidrato de
 galantamina",24 mg,"cápsula de
 liberação
-prolongada",N06DA04,Especializado,
-10,carbamazepina,200 mg,comprimido,N03AF01,Básico,
-11,carbamazepina,400 mg,comprimido,N03AF01,Básico,
-12,carbamazepina,20 mg/mL,suspensão oral,N03AF01,Básico,
-13,carbonato de lítio,300 mg,comprimido,N05AN01,Básico,
-14,clobazam,10 mg,comprimido,N05BA09,Especializado,
-15,clobazam,20 mg,comprimido,N05BA09,Especializado,
-16,clonazepam,"2,5 mg/mL",solução oral,N03AE01,Básico,
+prolongada",N06DA04,Especializado, 
+10,carbamazepina,200 mg,comprimido,N03AF01,Básico, 
+11,carbamazepina,400 mg,comprimido,N03AF01,Básico, 
+12,carbamazepina,20 mg/mL,suspensão oral,N03AF01,Básico, 
+13,carbonato de lítio,300 mg,comprimido,N05AN01,Básico, 
+14,clobazam,10 mg,comprimido,N05BA09,Especializado, 
+15,clobazam,20 mg,comprimido,N05BA09,Especializado, 
+16,clonazepam,"2,5 mg/mL",solução oral,N03AE01,Básico, 
 17,"cloridrato de
-amantadina",100 mg,comprimido,N04BB01,Especializado,
+amantadina",100 mg,comprimido,N04BB01,Especializado, 
 18,"cloridrato de
-amitriptilina",25 mg,comprimido,N06AA09,Básico,
+amitriptilina",25 mg,comprimido,N06AA09,Básico, 
 19,"cloridrato de
-amitriptilina",75 mg,comprimido,N06AA09,Básico,
+amitriptilina",75 mg,comprimido,N06AA09,Básico, 
 20,"cloridrato de
 biperideno",4 mg,"comprimido
 de liberação
-prolongada",N04AA02,Básico,
+prolongada",N04AA02,Básico, 
 21,"cloridrato de
-biperideno",2 mg,comprimido,N04AA02,Básico,
+biperideno",2 mg,comprimido,N04AA02,Básico, 
 22,"cloridrato de
-bupivacaína","2,5 mg/mL (0,25%)",solução injetável,N01BB01,Básico,
+bupivacaína","2,5 mg/mL (0,25%)",solução injetável,N01BB01,Básico, 
 23,"cloridrato de
-bupivacaína","5 mg/mL (0,50%)",solução injetável,N01BB01,Básico,
+bupivacaína","5 mg/mL (0,50%)",solução injetável,N01BB01,Básico, 
 24,"cloridrato de
 bupropiona",150 mg,"comprimido
 de liberação
-prolongada",N06AX12,Estratégico,
+prolongada",N06AX12,Estratégico, 
 25,"cloridrato de
-clomipramina",10 mg,comprimido,N06AA04,Básico,
+clomipramina",10 mg,comprimido,N06AA04,Básico, 
 26,"cloridrato de
-clomipramina",25 mg,comprimido,N06AA04,Básico,
+clomipramina",25 mg,comprimido,N06AA04,Básico, 
 27,"cloridrato de
-clorpromazina",5 mg/mL,solução injetável,N05AA01,Básico,
+clorpromazina",5 mg/mL,solução injetável,N05AA01,Básico, 
 28,"cloridrato de
-clorpromazina",40 mg/mL,solução oral,N05AA01,Básico,
+clorpromazina",40 mg/mL,solução oral,N05AA01,Básico, 
 29,"cloridrato de
-clorpromazina",25 mg,comprimido,N05AA01,Básico,
+clorpromazina",25 mg,comprimido,N05AA01,Básico, 
 30,"cloridrato de
-clorpromazina",100 mg,comprimido,N05AA01,Básico,
+clorpromazina",100 mg,comprimido,N05AA01,Básico, 
 31,"cloridrato de
-donepezila",5 mg,comprimido,N06DA02,Especializado,
+donepezila",5 mg,comprimido,N06DA02,Especializado, 
 32,"cloridrato de
-donepezila",10 mg,comprimido,N06DA02,Especializado,
+donepezila",10 mg,comprimido,N06DA02,Especializado, 
 33,"cloridrato de
-fluoxetina",20 mg,cápsula,N06AB03,Básico,
+fluoxetina",20 mg,cápsula,N06AB03,Básico, 
 34,"cloridrato de
-fluoxetina",20 mg,comprimido,N06AB03,Básico,
+fluoxetina",20 mg,comprimido,N06AB03,Básico, 
 35,"cloridrato de
-lidocaína",100 mg/mL,solução spray,N01BB02,Básico,
+lidocaína",100 mg/mL,solução spray,N01BB02,Básico, 
 36,"cloridrato de
 lidocaína + glicose","50 mg/mL + 75 mg/mL
-(5% + 7,5%)",solução injetável,N01BB52,Básico,
+(5% + 7,5%)",solução injetável,N01BB52,Básico, 
 37,"cloridrato de
 lidocaína +
 hemitartarato de
-epinefrina",2% + 1:200.000,solução injetável,N01BB52,Básico,
+epinefrina",2% + 1:200.000,solução injetável,N01BB52,Básico, 
 38,"cloridrato de
 lidocaína +
 hemitartarato de
-epinefrina",2% + 1:80.000,solução injetável,N01BB52,Básico,
+epinefrina",2% + 1:80.000,solução injetável,N01BB52,Básico, 
 39,"cloridrato de
 lidocaína +
 hemitartarato de
-epinefrina",1% + 1:200.000,solução injetável,N01BB52,Básico,
-40,cloridrato de metadona,5 mg,comprimido,N07BC02,Especializado,
-41,cloridrato de metadona,10 mg,comprimido,N07BC02,Especializado,
-42,cloridrato de metadona,10 mg/mL,solução injetável,N07BC02,Especializado,
+epinefrina",1% + 1:200.000,solução injetável,N01BB52,Básico, 
+40,cloridrato de metadona,5 mg,comprimido,N07BC02,Especializado, 
+41,cloridrato de metadona,10 mg,comprimido,N07BC02,Especializado, 
+42,cloridrato de metadona,10 mg/mL,solução injetável,N07BC02,Especializado, 
 43,"cloridrato de
-nortriptilina",10 mg,cápsula,N06AA10,Básico,
+nortriptilina",10 mg,cápsula,N06AA10,Básico, 
 44,"cloridrato de
-nortriptilina",25 mg,cápsula,N06AA10,Básico,
+nortriptilina",25 mg,cápsula,N06AA10,Básico, 
 45,"cloridrato de
-nortriptilina",50 mg,cápsula,N06AA10,Básico,
+nortriptilina",50 mg,cápsula,N06AA10,Básico, 
 46,"cloridrato de
-nortriptilina",75 mg,cápsula,N06AA10,Básico,
+nortriptilina",75 mg,cápsula,N06AA10,Básico, 
 47,"cloridrato de
 prilocaína +
 felipressina","30 mg/mL (3%) + 0,03
 unidades internacionais/
-mL",solução injetável,N01BB54,Básico,
+mL",solução injetável,N01BB54,Básico, 
 48,"cloridrato de
-selegilina",5 mg,comprimido,N04BD01,Especializado,
+selegilina",5 mg,comprimido,N04BD01,Especializado, 
 49,"cloridrato de
-triexifenidil",5 mg,comprimido,N04AA01,Especializado,
-50,clozapina,25 mg,comprimido,N05AH02,Especializado,
-51,clozapina,100 mg,comprimido,N05AH02,Especializado,
+triexifenidil",5 mg,comprimido,N04AA01,Especializado, 
+50,clozapina,25 mg,comprimido,N05AH02,Especializado, 
+51,clozapina,100 mg,comprimido,N05AH02,Especializado, 
 52,"decanoato de
-haloperidol",50 mg/mL,solução injetável,N05AD01,Básico,
-53,diazepam,5 mg/mL,solução injetável,N05BA01,Básico,
-54,diazepam,5 mg,comprimido,N05BA01,Básico,
-55,diazepam,10 mg,comprimido,N05BA01,Básico,
+haloperidol",50 mg/mL,solução injetável,N05AD01,Básico, 
+53,diazepam,5 mg/mL,solução injetável,N05BA01,Básico, 
+54,diazepam,5 mg,comprimido,N05BA01,Básico, 
+55,diazepam,10 mg,comprimido,N05BA01,Básico, 
 56,"dicloridrato de
-pramipexol","0,125 mg",comprimido,N04BC05,Especializado,
+pramipexol","0,125 mg",comprimido,N04BC05,Especializado, 
 57,"dicloridrato de
-pramipexol","0,25 mg",comprimido,N04BC05,Especializado,
+pramipexol","0,25 mg",comprimido,N04BC05,Especializado, 
 58,"dicloridrato de
-pramipexol",1 mg,comprimido,N04BC05,Especializado,
-59,dipirona,500 mg/mL,solução injetável,N02BB02,Básico,
-60,dipirona,500 mg,comprimido,N02BB02,Básico,
-61,dipirona,500 mg/mL,solução oral,N02BB02,Básico,
-62,entacapona,200 mg,comprimido,N04BX02,Especializado,
-63,etossuximida,50 mg/mL,xarope,N03AD01,Especializado,
-64,fenitoína,100 mg,comprimido,N03AB02,Básico,
-65,fenitoína,20 mg/mL,suspensão oral,N03AB02,Básico,
-66,fenitoína,50 mg/mL,solução injetável,N03AB02,Básico,
-67,fenobarbital,100 mg/mL,solução injetável,N03AA02,Básico,
-68,fenobarbital,100 mg,comprimido,N03AA02,Básico,
-69,fenobarbital,40 mg/mL,solução oral,N03AA02,Básico,
+pramipexol",1 mg,comprimido,N04BC05,Especializado, 
+59,dipirona,500 mg/mL,solução injetável,N02BB02,Básico, 
+60,dipirona,500 mg,comprimido,N02BB02,Básico, 
+61,dipirona,500 mg/mL,solução oral,N02BB02,Básico, 
+62,entacapona,200 mg,comprimido,N04BX02,Especializado, 
+63,etossuximida,50 mg/mL,xarope,N03AD01,Especializado, 
+64,fenitoína,100 mg,comprimido,N03AB02,Básico, 
+65,fenitoína,20 mg/mL,suspensão oral,N03AB02,Básico, 
+66,fenitoína,50 mg/mL,solução injetável,N03AB02,Básico, 
+67,fenobarbital,100 mg/mL,solução injetável,N03AA02,Básico, 
+68,fenobarbital,100 mg,comprimido,N03AA02,Básico, 
+69,fenobarbital,40 mg/mL,solução oral,N03AA02,Básico, 
 70,"fumarato de
-dimetila",120 mg,cápsula,N07XX09,Especializado,
+dimetila",120 mg,cápsula,N07XX09,Especializado, 
 71,"fumarato de
-dimetila",240 mg,cápsula,N07XX09,Especializado,
-72,gabapentina,300 mg,cápsula,N03AX12,Especializado,
-73,gabapentina,400 mg,cápsula,N03AX12,Especializado,
-74,haloperidol,1 mg,comprimido,N05AD01,Básico,
-75,haloperidol,5 mg,comprimido,N05AD01,Básico,
-76,haloperidol,2 mg/mL,solução oral,N05AD01,Básico,
-77,haloperidol,5 mg/mL,solução injetável,N05AD01,Básico,
+dimetila",240 mg,cápsula,N07XX09,Especializado, 
+72,gabapentina,300 mg,cápsula,N03AX12,Especializado, 
+73,gabapentina,400 mg,cápsula,N03AX12,Especializado, 
+74,haloperidol,1 mg,comprimido,N05AD01,Básico, 
+75,haloperidol,5 mg,comprimido,N05AD01,Básico, 
+76,haloperidol,2 mg/mL,solução oral,N05AD01,Básico, 
+77,haloperidol,5 mg/mL,solução injetável,N05AD01,Básico, 
 78,"hemifumarato de
-quetiapina",25 mg,comprimido,N05AH04,Especializado,
+quetiapina",25 mg,comprimido,N05AH04,Especializado, 
 79,"hemifumarato de
-quetiapina",100 mg,comprimido,N05AH04,Especializado,
+quetiapina",100 mg,comprimido,N05AH04,Especializado, 
 80,"hemifumarato de
-quetiapina",200 mg,comprimido,N05AH04,Especializado,
+quetiapina",200 mg,comprimido,N05AH04,Especializado, 
 81,"hemifumarato de
-quetiapina",300 mg,comprimido,N05AH04,Especializado,
+quetiapina",300 mg,comprimido,N05AH04,Especializado, 
 82,"lactato de
-biperideno",5 mg/mL,solução injetável,N04AA02,Básico,
-83,lamotrigina,25 mg,comprimido,N03AX09,Especializado,
-84,lamotrigina,50 mg,comprimido,N03AX09,Especializado,
-85,lamotrigina,100 mg,comprimido,N03AX09,Especializado,
-86,levetiracetam,250 mg,comprimido,N03AX14,Especializado,
-87,levetiracetam,500 mg,comprimido,N03AX14,Especializado,
-88,levetiracetam,750 mg,comprimido,N03AX14,Especializado,
-89,levetiracetam,1.000 mg,comprimido,N03AX14,Especializado,
-90,levetiracetam,100 mg/ml,solução oral,N03AX14,Especializado,
+biperideno",5 mg/mL,solução injetável,N04AA02,Básico, 
+83,lamotrigina,25 mg,comprimido,N03AX09,Especializado, 
+84,lamotrigina,50 mg,comprimido,N03AX09,Especializado, 
+85,lamotrigina,100 mg,comprimido,N03AX09,Especializado, 
+86,levetiracetam,250 mg,comprimido,N03AX14,Especializado, 
+87,levetiracetam,500 mg,comprimido,N03AX14,Especializado, 
+88,levetiracetam,750 mg,comprimido,N03AX14,Especializado, 
+89,levetiracetam,1.000 mg,comprimido,N03AX14,Especializado, 
+90,levetiracetam,100 mg/ml,solução oral,N03AX14,Especializado, 
 91,"levodopa +
-benserazida",100 mg + 25 mg,cápsula,N04BA02,Básico,
+benserazida",100 mg + 25 mg,cápsula,N04BA02,Básico, 
 92,"levodopa +
-benserazida",100 mg + 25 mg,comprimido,N04BA02,Básico,
+benserazida",100 mg + 25 mg,comprimido,N04BA02,Básico, 
 93,"levodopa +
-benserazida",200 mg + 50 mg,comprimido,N04BA02,Básico,
+benserazida",200 mg + 50 mg,comprimido,N04BA02,Básico, 
 94,"levodopa +
-carbidopa",200 mg + 50 mg,comprimido,N04BA02,Básico,
+carbidopa",200 mg + 50 mg,comprimido,N04BA02,Básico, 
 95,"levodopa +
-carbidopa",250 mg + 25 mg,comprimido,N04BA02,Básico,
-96,memantina,10 mg,comprimido,N06DX01,Especializado,
-97,mesilato de bromocriptina,"2,5 mg",comprimido,N04BC01,Especializado,
+carbidopa",250 mg + 25 mg,comprimido,N04BA02,Básico, 
+96,memantina,10 mg,comprimido,N06DX01,Especializado, 
+97,mesilato de bromocriptina,"2,5 mg",comprimido,N04BC01,Especializado, 
 98,"mesilato de
-rasagilina",1 mg,comprimido,N04BD02,Especializado,
-99,midazolam,2 mg/mL,solução oral,N05CD08,Básico,
+rasagilina",1 mg,comprimido,N04BD02,Especializado, 
+99,midazolam,2 mg/mL,solução oral,N05CD08,Básico, 
 100,nicotina,7 mg,"adesivo
-transdérmico",N07BA01,Estratégico,
+transdérmico",N07BA01,Estratégico, 
 101,nicotina,14 mg,"adesivo
-transdérmico",N07BA01,Estratégico,
+transdérmico",N07BA01,Estratégico, 
 102,nicotina,21 mg,"adesivo
-transdérmico",N07BA01,Estratégico,
-103,nicotina,2 mg,goma de mascar,N07BA01,Estratégico,
-104,nicotina,2 mg,pastilha,N07BA01,Estratégico,
-105,olanzapina,5 mg,comprimido,N05AH03,Especializado,
-106,olanzapina,10 mg,comprimido,N05AH03,Especializado,
-107,paracetamol,200 mg/mL,solução oral,N02BE01,Básico,
-108,paracetamol,500 mg,comprimido,N02BE01,Básico,
-109,primidona,100 mg,comprimido,N03AA03,Especializado,
-110,primidona,250 mg,comprimido,N03AA03,Especializado,
-111,riluzol,50 mg,comprimido,N07XX02,Especializado,
-112,risperidona,1 mg/mL,solução oral,N05AX08,Especializado,
-113,risperidona,1 mg,comprimido,N05AX08,Especializado,
-114,risperidona,2 mg,comprimido,N05AX08,Especializado,
-115,risperidona,3 mg,comprimido,N05AX08,Especializado,
-116,rivastigmina,"1,5 mg",cápsula,N06DA03,Especializado,
-117,rivastigmina,3 mg,cápsula,N06DA03,Especializado,
-118,rivastigmina,"4,5 mg",cápsula,N06DA03,Especializado,
-119,rivastigmina,6 mg,cápsula,N06DA03,Especializado,
-120,rivastigmina,2 mg/mL,solução oral,N06DA03,Especializado,
+transdérmico",N07BA01,Estratégico, 
+103,nicotina,2 mg,goma de mascar,N07BA01,Estratégico, 
+104,nicotina,2 mg,pastilha,N07BA01,Estratégico, 
+105,olanzapina,5 mg,comprimido,N05AH03,Especializado, 
+106,olanzapina,10 mg,comprimido,N05AH03,Especializado, 
+107,paracetamol,200 mg/mL,solução oral,N02BE01,Básico, 
+108,paracetamol,500 mg,comprimido,N02BE01,Básico, 
+109,primidona,100 mg,comprimido,N03AA03,Especializado, 
+110,primidona,250 mg,comprimido,N03AA03,Especializado, 
+111,riluzol,50 mg,comprimido,N07XX02,Especializado, 
+112,risperidona,1 mg/mL,solução oral,N05AX08,Especializado, 
+113,risperidona,1 mg,comprimido,N05AX08,Especializado, 
+114,risperidona,2 mg,comprimido,N05AX08,Especializado, 
+115,risperidona,3 mg,comprimido,N05AX08,Especializado, 
+116,rivastigmina,"1,5 mg",cápsula,N06DA03,Especializado, 
+117,rivastigmina,3 mg,cápsula,N06DA03,Especializado, 
+118,rivastigmina,"4,5 mg",cápsula,N06DA03,Especializado, 
+119,rivastigmina,6 mg,cápsula,N06DA03,Especializado, 
+120,rivastigmina,2 mg/mL,solução oral,N06DA03,Especializado, 
 121,rivastigmina,9 mg,"adesivo
-transdérmico",N06DA03,Especializado,
+transdérmico",N06DA03,Especializado, 
 122,rivastigmina,18 mg,"adesivo
-transdérmico",N06DA03,Especializado,
-123,sulfato de morfina,10 mg/mL,solução injetável,N02AA01,Especializado,
-124,sulfato de morfina,10 mg/mL,solução oral,N02AA01,Especializado,
-125,sulfato de morfina,10 mg,comprimido,N02AA01,Especializado,
-126,sulfato de morfina,30 mg,comprimido,N02AA01,Especializado,
+transdérmico",N06DA03,Especializado, 
+123,sulfato de morfina,10 mg/mL,solução injetável,N02AA01,Especializado, 
+124,sulfato de morfina,10 mg/mL,solução oral,N02AA01,Especializado, 
+125,sulfato de morfina,10 mg,comprimido,N02AA01,Especializado, 
+126,sulfato de morfina,30 mg,comprimido,N02AA01,Especializado, 
 127,sulfato de morfina,30 mg,"cápsula de
 liberação
-prolongada",N02AA01,Especializado,
+prolongada",N02AA01,Especializado, 
 128,sulfato de morfina,60 mg,"cápsula de
 liberação
-prolongada",N02AA01,Especializado,
+prolongada",N02AA01,Especializado, 
 129,sulfato de morfina,100 mg,"cápsula de
 liberação
-prolongada",N02AA01,Especializado,
-130,tafamidis,20 mg,cápsula,N07XX08,Especializado,
-131,topiramato,25 mg,comprimido,N03AX11,Especializado,
-132,topiramato,50 mg,comprimido,N03AX11,Especializado,
-133,topiramato,100 mg,comprimido,N03AX11,Especializado,
-134,valproato de sódio,250 mg,cápsula,N03AG01,Básico,
-135,valproato de sódio,250 mg,comprimido,N03AG01,Básico,
-136,valproato de sódio,50 mg/mL,xarope,N03AG01,Básico,
-137,valproato de sódio,50 mg/mL,solução oral,N03AG01,Básico,
-138,valproato de sódio,500 mg,comprimido,N03AG01,Básico,
-139,vigabatrina,500 mg,comprimido,N03AG04,Especializado,
-140,ziprasidona,40 mg,cápsula,N05AE04,Especializado,
-141,ziprasidona,80 mg,cápsula,N05AE04,Especializado,
-0,benzoilmetronidazol,40 mg/mL,suspensão oral,P01AB01,Básico,
-1,teclozana,500 mg,comprimido,P01AC04,Básico,
-2,teclozana,10 mg/mL,suspensão oral,P01AC04,Básico,
+prolongada",N02AA01,Especializado, 
+130,tafamidis,20 mg,cápsula,N07XX08,Especializado, 
+131,topiramato,25 mg,comprimido,N03AX11,Especializado, 
+132,topiramato,50 mg,comprimido,N03AX11,Especializado, 
+133,topiramato,100 mg,comprimido,N03AX11,Especializado, 
+134,valproato de sódio,250 mg,cápsula,N03AG01,Básico, 
+135,valproato de sódio,250 mg,comprimido,N03AG01,Básico, 
+136,valproato de sódio,50 mg/mL,xarope,N03AG01,Básico, 
+137,valproato de sódio,50 mg/mL,solução oral,N03AG01,Básico, 
+138,valproato de sódio,500 mg,comprimido,N03AG01,Básico, 
+139,vigabatrina,500 mg,comprimido,N03AG04,Especializado, 
+140,ziprasidona,40 mg,cápsula,N05AE04,Especializado, 
+141,ziprasidona,80 mg,cápsula,N05AE04,Especializado, 
+0,benzoilmetronidazol,40 mg/mL,suspensão oral,P01AB01,Básico, 
+1,teclozana,500 mg,comprimido,P01AC04,Básico, 
+2,teclozana,10 mg/mL,suspensão oral,P01AC04,Básico, 
 3,difosfato de cloroquina,150 mg,comprimido,P01BA01,"Estratégico e
-Especializado",
+Especializado", 
 4,"sulfato de
-hidroxicloroquina",400 mg,comprimido,P01BA02,Especializado,
+hidroxicloroquina",400 mg,comprimido,P01BA02,Especializado, 
 5,"difosfato de
-primaquina",15 mg,comprimido,P01BA03,Estratégico,
+primaquina",15 mg,comprimido,P01BA03,Estratégico, 
 6,"difosfato de
-primaquina",5 mg,comprimido,P01BA03,Estratégico,
+primaquina",5 mg,comprimido,P01BA03,Estratégico, 
 7,"succinato de
-tafenoquina",150 mg,comprimido,P01BA07,Estratégico,
-8,pirimetamina,25 mg,comprimido,P01BD01,Estratégico,
+tafenoquina",150 mg,comprimido,P01BA07,Estratégico, 
+8,pirimetamina,25 mg,comprimido,P01BD01,Estratégico, 
 9,artesunato,60 mg/mL,"pó para solução
-injetável",P01BE03,Estratégico,
+injetável",P01BE03,Estratégico, 
 10,"arteméter +
-lumefantrina",20 mg + 120 mg,comprimido,P01BF01,Estratégico,
+lumefantrina",20 mg + 120 mg,comprimido,P01BF01,Estratégico, 
 11,"artesunato +
 cloridrato de
-mefloquina",25 mg + 55 mg,comprimido,P01BF02,Estratégico,
+mefloquina",25 mg + 55 mg,comprimido,P01BF02,Estratégico, 
 12,"artesunato +
 cloridrato de
-mefloquina",100 mg + 220 mg,comprimido,P01BF02,Estratégico,
-13,benznidazol,"12,5 mg",comprimido,P01CA02,Estratégico,
-14,benznidazol,100 mg,comprimido,P01CA02,Estratégico,
+mefloquina",100 mg + 220 mg,comprimido,P01BF02,Estratégico, 
+13,benznidazol,"12,5 mg",comprimido,P01CA02,Estratégico, 
+14,benznidazol,100 mg,comprimido,P01CA02,Estratégico, 
 15,"antimoniato de
-meglumina",300 mg/mL,solução injetável,P01CB01,Estratégico,
+meglumina",300 mg/mL,solução injetável,P01CB01,Estratégico, 
 16,"isetionato de
 pentamidina",300 mg,"pó para solução
-injetável",P01CX01,Estratégico,
-17,praziquantel,600 mg,comprimido,P02BA01,Estratégico,
-18,oxamniquina,50 mg/mL,suspensão oral,P02BA02,Estratégico,
-19,albendazol,40 mg/mL,suspensão oral,P02CA03,Básico,
+injetável",P01CX01,Estratégico, 
+17,praziquantel,600 mg,comprimido,P02BA01,Estratégico, 
+18,oxamniquina,50 mg/mL,suspensão oral,P02BA02,Estratégico, 
+19,albendazol,40 mg/mL,suspensão oral,P02CA03,Básico, 
 20,albendazol,400 mg,"comprimido
 mastigável",P02CA03,"Básico e
-Estratégico",
+Estratégico", 
 21,"citrato de
-dietilcarbamazina",50 mg,comprimido,P02CB02,Estratégico,
-22,ivermectina,6 mg,comprimido,P02CF01,Básico,
-23,permetrina,10 mg/g (1%),loção,P03AC04,Básico,
-24,permetrina,50 mg/g (5% ),loção,P03AC04,Básico,
+dietilcarbamazina",50 mg,comprimido,P02CB02,Estratégico, 
+22,ivermectina,6 mg,comprimido,P02CF01,Básico, 
+23,permetrina,10 mg/g (1%),loção,P03AC04,Básico, 
+24,permetrina,50 mg/g (5% ),loção,P03AC04,Básico, 
 0,alfadornase,1 mg/mL,"solução para
-inalação",R05CB13,Especializado,
+inalação",R05CB13,Especializado, 
 1,"alfaporactanto
 (surfactante
 pulmonar)",80 mg/mL,"suspensão
 injetável intratecal
-ou intrabronquica",R07AA,Hospitalar,
+ou intrabronquica",R07AA,Hospitalar, 
 2,"alfaporactanto
 (surfactante
 pulmonar)",25 mg/mL,"solução injetável
 intratecal ou
-intrabronquica",R07AA,Hospitalar,
+intrabronquica",R07AA,Hospitalar, 
 3,"brometo de
 ipratrópio","0,25 mg/mL","solução para
-inalação",R03BB01,Básico,
+inalação",R03BB01,Básico, 
 4,"brometo de
 ipratrópio",20 microgramas/dose,"solução para
-inalação oral",R03BB01,Básico,
+inalação oral",R03BB01,Básico, 
 5,"brometo de tiotrópio
 monoidratado
 + cloridrato de
 olodaterol","2,5 mcg + 2,5 mcg","solução para
-inalação",R03AL06,Especializado,
+inalação",R03AL06,Especializado, 
 6,"brometo de
 umeclidínio +
 trifenatato de
-vilanterol","62,5 mcg + 25 mcg",pó para inalação,R03AL03,Especializado,
+vilanterol","62,5 mcg + 25 mcg",pó para inalação,R03AL03,Especializado, 
 7,"bromidrato de
-fenoterol",100 microgramas/dose,solução aerossol,R03AC04,Especializado,
+fenoterol",100 microgramas/dose,solução aerossol,R03AC04,Especializado, 
 8,budesonida,32 microgramas,"suspensão para
-inalação nasal",R01AD05,Básico,
+inalação nasal",R01AD05,Básico, 
 9,budesonida,50 microgramas,"suspensão para
-inalação nasal",R01AD05,Básico,
+inalação nasal",R01AD05,Básico, 
 10,budesonida,64 microgramas,"suspensão para
-inalação nasal",R01AD05,Básico,
-11,budesonida,200 microgramas,aerossol bucal,R03BA02,Especializado,
+inalação nasal",R01AD05,Básico, 
+11,budesonida,200 microgramas,aerossol bucal,R03BA02,Especializado, 
 12,budesonida,200 microgramas,"cápsula para
-inalação",R03BA02,Especializado,
-13,budesonida,200 microgramas,pó para inalação,R03BA02,Especializado,
+inalação",R03BA02,Especializado, 
+13,budesonida,200 microgramas,pó para inalação,R03BA02,Especializado, 
 14,budesonida,400 microgramas,"cápsula para
-inalação",R03BA02,Especializado,
-15,cloreto de sódio,"0,9% (9 mg/mL)",solução nasal,R01AX10,Básico,
-16,cloridrato de prometazina,25 mg,comprimido,R06AD02,Básico,
-17,cloridrato de prometazina,25 mg/mL,solução injetável,R06AD02,Básico,
+inalação",R03BA02,Especializado, 
+15,cloreto de sódio,"0,9% (9 mg/mL)",solução nasal,R01AX10,Básico, 
+16,cloridrato de prometazina,25 mg,comprimido,R06AD02,Básico, 
+17,cloridrato de prometazina,25 mg/mL,solução injetável,R06AD02,Básico, 
 18,"dipropionato de
 beclometasona",50 microgramas/dose,"solução para
-inalação oral",R03BA01,Básico,
+inalação oral",R03BA01,Básico, 
 19,"dipropionato de
 beclometasona",50 microgramas/dose,"suspensão para
-inalação nasal",R03BA01,Básico,
+inalação nasal",R03BA01,Básico, 
 20,"dipropionato de
 beclometasona",200 microgramas/dose,"pó para inalação
-oral",R03BA01,Básico,
+oral",R03BA01,Básico, 
 21,"dipropionato de
 beclometasona",200 microgramas/dose,"solução para
-inalação oral",R03BA01,Básico,
+inalação oral",R03BA01,Básico, 
 22,"dipropionato de
 beclometasona",250 microgramas/dose,"solução para
-inalação oral",R03BA01,Básico,
+inalação oral",R03BA01,Básico, 
 23,"dipropionato de
 beclometasona",200 microgramas/dose,"cápsula para
-inalação oral",R03BA01,Básico,
+inalação oral",R03BA01,Básico, 
 24,"dipropionato de
 beclometasona",400 microgramas/dose,"pó para inalação
-oral",R03BA01,Básico,
+oral",R03BA01,Básico, 
 25,"dipropionato de
 beclometasona",400 microgramas/dose,"cápsula para
-inalação oral",R03BA01,Básico,
-26,fosfato de codeína,3 mg/mL,solução oral,R05DA04,Especializado,
-27,fosfato de codeína,30 mg,comprimido,R05DA04,Especializado,
-28,fosfato de codeína,60 mg,comprimido,R05DA04,Especializado,
-29,fosfato de codeína,30 mg/mL,solução injetável,R05DA04,Especializado,
+inalação oral",R03BA01,Básico, 
+26,fosfato de codeína,3 mg/mL,solução oral,R05DA04,Especializado, 
+27,fosfato de codeína,30 mg,comprimido,R05DA04,Especializado, 
+28,fosfato de codeína,60 mg,comprimido,R05DA04,Especializado, 
+29,fosfato de codeína,30 mg/mL,solução injetável,R05DA04,Especializado, 
 30,"fumarato de
 formoterol",12 microgramas,"cápsula para
-inalação",R03AC13,Especializado,
+inalação",R03AC13,Especializado, 
 31,"fumarato de
-formoterol",12 microgramas,pó para inalação,R03AC13,Especializado,
+formoterol",12 microgramas,pó para inalação,R03AC13,Especializado, 
 32,"fumarato de
 formoterol +
 budesonida","6 microgramas + 200
 microgramas","cápsula para
-inalação",R03AK07,Especializado,
+inalação",R03AK07,Especializado, 
 33,"fumarato de
 formoterol +
 budesonida","6 microgramas + 200
-microgramas",pó para inalação,R03AK07,Especializado,
+microgramas",pó para inalação,R03AK07,Especializado, 
 34,"fumarato de
 formoterol +
 budesonida","12 microgramas + 400
 microgramas","cápsula para
-inalação",R03AK07,Especializado,
+inalação",R03AK07,Especializado, 
 35,"fumarato de
 formoterol +
 budesonida","12 microgramas + 400
-microgramas",pó para inalação,R03AK07,Especializado,
-36,ivacaftor,150 mg,comprimido,R07AX02,Especializado,
-37,loratadina,10 mg,comprimido,R06AX13,Básico,
-38,loratadina,1 mg/mL,xarope,R06AX13,Básico,
-39,maleato de dexclorfeniramina,2 mg,comprimido,R06AB02,Básico,
-40,maleato de dexclorfeniramina,"0,4 mg/mL",solução oral,R06AB02,Básico,
-41,maleato de dexclorfeniramina,"0,4 mg/mL",xarope,R06AB02,Básico,
+microgramas",pó para inalação,R03AK07,Especializado, 
+36,ivacaftor,150 mg,comprimido,R07AX02,Especializado, 
+37,loratadina,10 mg,comprimido,R06AX13,Básico, 
+38,loratadina,1 mg/mL,xarope,R06AX13,Básico, 
+39,maleato de dexclorfeniramina,2 mg,comprimido,R06AB02,Básico, 
+40,maleato de dexclorfeniramina,"0,4 mg/mL",solução oral,R06AB02,Básico, 
+41,maleato de dexclorfeniramina,"0,4 mg/mL",xarope,R06AB02,Básico, 
 42,mepolizumabe,100 mg/mL,"pó para solução
-injetável",R03DX09,Especializado,
-43,mepolizumabe,100 mg/mL,solução injetável,R03DX09,Especializado,
-44,omalizumabe,150 mg,solução injetável,R03DX05,Especializado,
+injetável",R03DX09,Especializado, 
+43,mepolizumabe,100 mg/mL,solução injetável,R03DX09,Especializado, 
+44,omalizumabe,150 mg,solução injetável,R03DX05,Especializado, 
 45,"sulfato de
-salbutamol",100 microgramas/dose,aerossol oral,R03AC02,Básico,
+salbutamol",100 microgramas/dose,aerossol oral,R03AC02,Básico, 
 46,"sulfato de
 salbutamol",5 mg/mL,"solução para
-inalação",R03AC02,Básico,
+inalação",R03AC02,Básico, 
 47,"sulfato de
-salbutamol","0,5 mg/mL",solução injetável,R03CC02,Básico,
+salbutamol","0,5 mg/mL",solução injetável,R03CC02,Básico, 
 48,"xinafoato de
-salmeterol",50 microgramas,pó para inalação,R03AC12,Especializado,
+salmeterol",50 microgramas,pó para inalação,R03AC12,Especializado, 
 0,acetazolamida,250 mg,comprimido,S01EC01,"Básico e
-Especializado",
-1,aflibercepte,40 mg/mL,solução injetável,S01LA05,Especializado,
-2,bimatoprosta,"0,3 mg/mL (0,03%)",solução oftálmica,S01EE03,Especializado,
+Especializado", 
+1,aflibercepte,40 mg/mL,solução injetável,S01LA05,Especializado, 
+2,bimatoprosta,"0,3 mg/mL (0,03%)",solução oftálmica,S01EE03,Especializado, 
 3,brinzolamida,10 mg/mL,"suspensão
-oftálmica",S01EC04,Especializado,
+oftálmica",S01EC04,Especializado, 
 4,"cloridrato de
-dorzolamida",20 mg/mL,solução oftálmica,S01EC03,Especializado,
+dorzolamida",20 mg/mL,solução oftálmica,S01EC03,Especializado, 
 5,"cloridrato de
 pilocarpina",20 mg/mL (2%),solução oftálmica,S01EB01,"Básico e
-Especializado",
+Especializado", 
 6,"cloridrato de
-tetraciclina",10 mg/g (1%),pomada oftálmica,S01AA09,Básico,
-7,dexametasona,"1 mg/g (0,1%)",pomada oftálmica,S01BA01,Básico,
+tetraciclina",10 mg/g (1%),pomada oftálmica,S01AA09,Básico, 
+7,dexametasona,"1 mg/g (0,1%)",pomada oftálmica,S01BA01,Básico, 
 8,dexametasona,"1 mg/mL (0,1%)","suspensão
-oftálmica",S01BA01,Básico,
-9,dexametasona,2 mg/mL,solução oftálmica,S01EA05,Especializado,
-10,hipromelose,"3 mg/mL (0,3%)",solução oftálmica,S01KA02,Básico,
-11,hipromelose,"5 mg/mL (0,5%)",solução oftálmica,S01KA02,Básico,
-12,latanoprosta,"0,05 mg/mL",solução oftálmica,S01EE01,Especializado,
-13,maleato de timolol,"2,5 mg/mL (0,25%)",solução oftálmica,S01ED01,Básico,
+oftálmica",S01BA01,Básico, 
+9,dexametasona,2 mg/mL,solução oftálmica,S01EA05,Especializado, 
+10,hipromelose,"3 mg/mL (0,3%)",solução oftálmica,S01KA02,Básico, 
+11,hipromelose,"5 mg/mL (0,5%)",solução oftálmica,S01KA02,Básico, 
+12,latanoprosta,"0,05 mg/mL",solução oftálmica,S01EE01,Especializado, 
+13,maleato de timolol,"2,5 mg/mL (0,25%)",solução oftálmica,S01ED01,Básico, 
 14,maleato de timolol,"5 mg/mL (0,5%)",solução oftálmica,S01ED01,"Básico e
-Especializado",
+Especializado", 
 15,"sulfato de
-gentamicina",5 mg/g,pomada oftálmica,S01AA11,Básico,
+gentamicina",5 mg/g,pomada oftálmica,S01AA11,Básico, 
 16,"sulfato de
-gentamicina",5 mg/mL,solução oftálmica,S01AA11,Básico,
+gentamicina",5 mg/mL,solução oftálmica,S01AA11,Básico, 
 17,"sulfato de polimixina
 B + sulfato de
 neomicina +
@@ -1912,36 +1912,36 @@ acetonida +
 cloridrato de
 lidocaína","10.000 ui/ml + 3,500
 mg/ml + 0,250 mg/ml +
-20 mg/ml",solução otológica,S02AA11,Básico,
-18,travoprosta,"0,04 mg/mL",solução oftálmica,S01EE04,Especializado,
+20 mg/ml",solução otológica,S02AA11,Básico, 
+18,travoprosta,"0,04 mg/mL",solução oftálmica,S01EE04,Especializado, 
 0,ácido folínico,15 mg,comprimido,V03AF03,"Básico e
-Estratégico",
-1,água para injetáveis,,"solução injetável
+Estratégico", 
+1,água para injetáveis,15 mg,"solução injetável
 5 mL",V07AB,"Insumos
-(Básico)",
-2,água para injetáveis,,"solução injetável
+(Básico)", 
+2,água para injetáveis,15 mg,"solução injetável
 10 mL",V07AB,"Insumos
-(Básico)",
-3,água para injetáveis,,"solução injetável
+(Básico)", 
+3,água para injetáveis,15 mg,"solução injetável
 100 mL",V07AB,"Insumos
-(Básico)",
-4,água para injetáveis,,"solução injetável
+(Básico)", 
+4,água para injetáveis,15 mg,"solução injetável
 500 mL",V07AB,"Insumos
-(Básico)",
+(Básico)", 
 5,"agulha para caneta
 aplicadora de
 insulina",-,-,NC,"Insumos
-(Básico)",
-6,caneta para aplicação de insulina,-,-,NC,Insumos (Básico),
+(Básico)", 
+6,caneta para aplicação de insulina,-,-,NC,Insumos (Básico), 
 7,"cloridrato de
 hidroxocobalamina",5 g,"pó para solução
-injetável",V03AB33,Estratégico,
+injetável",V03AB33,Estratégico, 
 8,"cloridrato de
-naloxona","0,4 mg/mL",solução injetável,V03AB15,Básico,
+naloxona","0,4 mg/mL",solução injetável,V03AB15,Básico, 
 9,"cloridrato de
-protamina",10 mg/mL,solução injetável,V03AB14,Básico,
+protamina",10 mg/mL,solução injetável,V03AB14,Básico, 
 10,"cloridrato de
-sevelâmer",800 mg,comprimido,V03AE02,Especializado,
+sevelâmer",800 mg,comprimido,V03AE02,Especializado, 
 11,"complemento
 alimentar
 para paciente
@@ -1949,7 +1949,7 @@ fenilcetonúrico
 maior de 1 ano
 (fórmula de
 aminoácidos isenta
-de fenilalanina)",,comprimido,V06CA,Especializado,
+de fenilalanina)",800 mg,comprimido,V06CA,Especializado, 
 12,"complemento
 alimentar
 para paciente
@@ -1957,37 +1957,37 @@ fenilcetonúrico
 menor de 1 ano
 (fórmula de
 aminoácidos isenta
-de fenilalanina)",,comprimido,V06CA,Especializado,
+de fenilalanina)",800 mg,comprimido,V06CA,Especializado, 
 13,deferasirox,125 mg,"comprimido para
-suspensão",V03AC03,Especializado,
+suspensão",V03AC03,Especializado, 
 14,deferasirox,250 mg,"comprimido para
-suspensão",V03AC03,Especializado,
+suspensão",V03AC03,Especializado, 
 15,deferasirox,500 mg,"comprimido para
-suspensão",V03AC03,Especializado,
-16,deferiprona,500 mg,comprimido,V03AC02,Especializado,
-17,diafragma,60 mm de diâmetro,comprimido,NC,Insumos (Básico),
-18,diafragma,65 mm de diâmetro,comprimido,NC,Insumos (Básico),
-19,diafragma,70 mm de diâmetro,comprimido,NC,Insumos (Básico),
-20,diafragma,75 mm de diâmetro,comprimido,NC,Insumos (Básico),
-21,diafragma,80 mm de diâmetro,comprimido,NC,Insumos (Básico),
-22,diafragma,85 mm de diâmetro,comprimido,NC,Insumos (Básico),
-23,flumazenil,"0,1 mg/mL",solução injetável,V03AB25,Básico,
+suspensão",V03AC03,Especializado, 
+16,deferiprona,500 mg,comprimido,V03AC02,Especializado, 
+17,diafragma,60 mm de diâmetro,comprimido,NC,Insumos (Básico), 
+18,diafragma,65 mm de diâmetro,comprimido,NC,Insumos (Básico), 
+19,diafragma,70 mm de diâmetro,comprimido,NC,Insumos (Básico), 
+20,diafragma,75 mm de diâmetro,comprimido,NC,Insumos (Básico), 
+21,diafragma,80 mm de diâmetro,comprimido,NC,Insumos (Básico), 
+22,diafragma,85 mm de diâmetro,comprimido,NC,Insumos (Básico), 
+23,flumazenil,"0,1 mg/mL",solução injetável,V03AB25,Básico, 
 24,folinato de cálcio,15 mg,comprimido,V03AF03,"Básico e
-Estratégico",
-25,gel lubrificante,,gel,NC,"Insumos
-(Estratégico)",
-26,glicose,50 mg/mL (5%),solução injetável,V06DC01,Básico,
-27,glicose,100 mg/mL (10%),solução injetável,V06DC01,Básico,
-28,glicose,500 mg/mL (50%),solução injetável,V06DC01,Básico,
+Estratégico", 
+25,gel lubrificante,15 mg,gel,NC,"Insumos
+(Estratégico)", 
+26,glicose,50 mg/mL (5%),solução injetável,V06DC01,Básico, 
+27,glicose,100 mg/mL (10%),solução injetável,V06DC01,Básico, 
+28,glicose,500 mg/mL (50%),solução injetável,V06DC01,Básico, 
 29,glutaral,"0,02",solução,NC,"Insumos
-(Básico)",
+(Básico)", 
 30,hipoclorito de sódio,10 mg/mL (1%),solução,NC,"Insumos
-(Básico)",
+(Básico)", 
 31,hipoclorito de sódio,"25 mg/mL (2,5%)",solução,NC,"Insumos
-(Estratégico)",
+(Estratégico)", 
 32,"lancetas para
 punção digital","25 mg/mL (2,5%)",unidade,NC,"Insumos
-(Básico)",
+(Básico)", 
 33,"medicamentos
 homeopáticos","conforme
 Farmacopeia
@@ -1996,12 +1996,12 @@ Brasileira 3a edição","conforme
 Farmacopeia
 Homeopática
 Brasileira 3a
-edição",NC,Básico,
+edição",NC,Básico, 
 34,"mesilato de
 desferroxamina",500 mg,"pó para solução
-injetável",V03AC01,Especializado,
+injetável",V03AC01,Especializado, 
 35,"mesilato de
-pralidoxima",200 mg,solução injetável,V03AB04,Básico,
+pralidoxima",200 mg,solução injetável,V03AB04,Básico, 
 36,micronutrientes,"cada sachê de 1 g
 contém: vitamina A
 400 microgramas,
@@ -2022,93 +2022,93 @@ ferro 10 mg, zinco
 microgramas,
 selênio 17
 microgramas, iodo
-90 microgramas",pó,V06DX,Estratégico,
+90 microgramas",pó,V06DX,Estratégico, 
 37,"preservativo
 Feminino",,até 20 cm,NC,"Insumos
-(Estratégico)",
+(Estratégico)", 
 38,"preservativo
 masculino",,160 mm x 49 mm,NC,"Insumos
-(Estratégico)",
+(Estratégico)", 
 39,"preservativo
 masculino",,160 mm x 52 mm,NC,"Insumos
-(Estratégico)",
+(Estratégico)", 
 40,"seringas com
 agulha acoplada
 para aplicação de
 insulina",,unidade,NC,"Insumos
-(Básico)",
+(Básico)", 
 41,"tiras reagentes de
 medida de glicemia
 capilar",,unidade,NC,"Insumos
-(Básico)",
+(Básico)", 
 0,"alcachofra (Cynara
 scolymus L.)","24 a 48 mg de derivados
 de ácido cafeoilquínico
 expressos em ácido
 clorogênico (dose diária)",cápsula,"HC10AW
-5006*",Básico,
+5006*",Básico, 
 1,"alcachofra (Cynara
 scolymus L.)","24 a 48 mg de derivados
 de ácido cafeoilquínico
 expressos em ácido
 clorogênico (dose diária)",comprimido,"HC10AW
-5006*",Básico,
+5006*",Básico, 
 2,"alcachofra (Cynara
 scolymus L.)","24 a 48 mg de derivados
 de ácido cafeoilquínico
 expressos em ácido
 clorogênico (dose diária)",solução oral,"HC10AW
-5006*",Básico,
+5006*",Básico, 
 3,"alcachofra (Cynara
 scolymus L.)","24 a 48 mg de derivados
 de ácido cafeoilquínico
 expressos em ácido
 clorogênico (dose diária)",tintura,"HC10AW
-5006*",Básico,
+5006*",Básico, 
 4,aroeira (Schinus terebinthifolia raddi),"1,932 mg de ácido gálico
-(dose diária)",gel vaginal,NC,Básico,
+(dose diária)",gel vaginal,NC,Básico, 
 5,aroeira (Schinus terebinthifolia raddi),"1,932 mg de ácido gálico
 (dose diária)","óvulo
-vaginal",NC,Básico,
+vaginal",NC,Básico, 
 6,"babosa (Aloe vera (L.)
 Burm. f.)",10%-70% gel fresco,creme,"HD02WA
-5001*",Básico,
+5001*",Básico, 
 7,"babosa (Aloe vera (L.)
 Burm. f.)",10&-70% gel fresco,gel,"HD02WA
-5001*",Básico,
+5001*",Básico, 
 8,"cáscara-sagrada
 (Rhamnus purshiana DC.)","20 a 30 mg de derivados
 hidroxiantracênicos
 expressos em cascarosídeo
 A (dose diária)",cápsula,"HA06AB
-5014*",Básico,
+5014*",Básico, 
 9,"cáscara-sagrada
 (Rhamnus purshiana DC.)","20 a 30 mg de derivados
 hidroxiantracênicos
 expressos em cascarosídeo
 A (dose diária)",tintura,"HA06AB
-5014*",Básico,
+5014*",Básico, 
 10,"espinheira-santa
 (Maytenus ilicifolia Mart.
 ex Reissek)","60 a 90 mg taninos totais
 expressos em pirogalol
-(dose diária)",cápsula,NC,Básico,
+(dose diária)",cápsula,NC,Básico, 
 11,"espinheira-santa
 (Maytenus ilicifolia Mart.
 ex Reissek)","60 a 90 mg taninos totais
 expressos em pirogalol
-(dose diária)",tintura,NC,Básico,
+(dose diária)",tintura,NC,Básico, 
 12,"espinheira-santa
 (Maytenus ilicifolia Mart.
 ex Reissek)","60 a 90 mg taninos totais
 expressos em pirogalol
 (dose diária)","suspensão
-oral",NC,Básico,
+oral",NC,Básico, 
 13,"espinheira-santa
 (Maytenus ilicifolia Mart.
 ex Reissek)","60 a 90 mg taninos totais
 expressos em pirogalol
-(dose diária)",emulsão oral,NC,Básico,
+(dose diária)",emulsão oral,NC,Básico, 
 14,"garra-do-diabo
 (Harpagophytum
 procumbens DC
@@ -2117,7 +2117,7 @@ harpagosídeo ou 45
 a 150 mg de iridoides
 totais expressos em
 harpagosídeos (dose diária)",cápsula,"HM01AW
-5009*",Básico,
+5009*",Básico, 
 15,"garra-do-diabo
 (Harpagophytum
 procumbens DC
@@ -2126,7 +2126,7 @@ harpagosídeo ou 45
 a 150 mg de iridoides
 totais expressos em
 harpagosídeos (dose diária)",comprimido,"HM01AW
-5009*",Básico,
+5009*",Básico, 
 16,"garra-do-diabo
 (Harpagophytum
 procumbens DC
@@ -2137,47 +2137,47 @@ totais expressos em
 harpagosídeos (dose diária)","comprimido
 de liberação
 retardada","HM01AW
-5009*",Básico,
+5009*",Básico, 
 17,guaco (Mikania glomerata Spreng.,"0,5 a 5 mg de cumarina
-(dose diária)",tintura,NC,Básico,
+(dose diária)",tintura,NC,Básico, 
 18,guaco (Mikania glomerata Spreng.,"0,5 a 5 mg de cumarina
-(dose diária)",xarope,NC,Básico,
+(dose diária)",xarope,NC,Básico, 
 19,guaco (Mikania glomerata Spreng.,"0,5 a 5 mg de cumarina
-(dose diária)",solução oral,NC,Básico,
+(dose diária)",solução oral,NC,Básico, 
 20,"hortelã (Mentha x
 piperita L.)","60 a 440 mg de mentol e 28
 a 256 mg de mentona (dose
 diária)",cápsula,"HA03AW
-5039*",Básico,
+5039*",Básico, 
 21,"isoflavona-de-soja
 (Glycine max (L.) Merr.)","50 a 120 mg de isoflavonas
-(dose diária)",cápsula,NC,Básico,
+(dose diária)",cápsula,NC,Básico, 
 22,"isoflavona-de-soja
 (Glycine max (L.) Merr.)","50 a 120 mg de isoflavonas
-(dose diária)",comprimido,NC,Básico,
+(dose diária)",comprimido,NC,Básico, 
 23,"plantago (Plantago
 ovata Forssk.)",3 a 30 g (dose diária),"pó para
 dispersão
 oral","HA06AC
-9001*",Básico,
+9001*",Básico, 
 24,salgueiro (Salix alba L.),"60 a 240 mg de salicina
 (dose diária)",comprimido,"HN02BA
-5008*",Básico,
+5008*",Básico, 
 25,salgueiro (Salix alba L.),"60 a 240 mg de salicina
 (dose diária)",elixir,"HN02BA
-5008*",Básico,
+5008*",Básico, 
 26,salgueiro (Salix alba L.),"60 a 240 mg de salicina
 (dose diária)",solução oral,"HN02BA
-5008*",Básico,
+5008*",Básico, 
 27,"unha-de-gato (Uncaria
 tomentosa (Willd. ex
 Roem. & Schult.))","0,9 mg de alcaloides
-oxindólicos pentaclíclicos",cápsula,NC,Básico,
+oxindólicos pentaclíclicos",cápsula,NC,Básico, 
 28,"unha-de-gato (Uncaria
 tomentosa (Willd. ex
 Roem. & Schult.))","0,9 mg de alcaloides
-oxindólicos pentaclíclicos",comprimido,NC,Básico,
+oxindólicos pentaclíclicos",comprimido,NC,Básico, 
 29,"unha-de-gato (Uncaria
 tomentosa (Willd. ex
 Roem. & Schult.))","0,9 mg de alcaloides
-oxindólicos pentaclíclicos",gel,NC,Básico,
+oxindólicos pentaclíclicos",gel,NC,Básico, 
