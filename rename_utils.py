@@ -9,17 +9,20 @@ class RENAME2022:
         self.csv_file = None
         self.list_dataframes = None
 
-    def fill_name_medicine(self, csv_file):
-        self.csv_file = csv_file
-        name_csv_file = self.csv_file[0:-4]
-        pd_treated = pd.read_csv('./planilhas_apendice_resultado/' + csv_file)
-        new_pd = pd_treated['Denominação genérica'].fillna(method='ffill')
-        new_pd.to_csv(f'{name_csv_file}_atualizado.csv')
+    @staticmethod
+    def fill_name_medicine(df):
+        df['Denominação genérica'].fillna(method='ffill')
+        df['Concentração/\nComposição'].fillna('',inplace=True)
+        return df
+
+    def concatenate_tables(self, list_dataframes):
+        final_result = pd.concat(list_dataframes)
+        fill_values = self.fill_name_medicine(final_result)
+        return fill_values
 
     @staticmethod
-    def concatenate_tables(list_dataframes):
-        final_result = pd.concat(list_dataframes)
-        final_result.to_csv('./planilhas_apendice_resultado/resultado.csv')
+    def export_file(df):
+        df.to_csv('./planilhas_apendice_resultado/resultado.csv')
 
     def generate_final_file(self):
         list_files = list()
@@ -37,8 +40,9 @@ class RENAME2022:
             df_sheets.insert(5, name_new_column, ' ')
             df_sheets.columns = main_columns
             list_dataframes.append(df_sheets)
-        list_dataframes.insert(6, pd.read_csv('./planilhas_apendice/apendice_a_j.csv'))
-        self.concatenate_tables(list_dataframes)
+        list_dataframes.insert(6, pd.read_csv('./planilhas_apendice/apendice_a_j.csv').fillna(' '))
+        file = self.concatenate_tables(list_dataframes)
+        self.export_file(file)
 
     @staticmethod
     def length_column():
@@ -66,5 +70,3 @@ class RENAME2022:
 if __name__ == '__main__':
     r = RENAME2022('planilhas_apendice')
     r.generate_final_file()
-    print(r.length_column())
-    # r.fill_name_medicine('resultado.csv')

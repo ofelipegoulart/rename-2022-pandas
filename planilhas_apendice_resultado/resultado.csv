@@ -623,7 +623,7 @@ Hospitalar",
 29,paricalcitol,5 microgramas/mL,solução injetável,H05BX02,Especializado, 
 30,prednisona,20 mg,comprimido,H02AB07,"Básico e
 Estratégico", 
-31,,5 mg,comprimido,H02AB07,"Básico e
+31,prednisona,5 mg,comprimido,H02AB07,"Básico e
 Estratégico", 
 32,propiltiouracila,100 mg,comprimido,H03BA02,Básico, 
 33,somatropina,4 unidades internacionais,"pó para solução
@@ -660,12 +660,12 @@ injetável",H02AB09,Básico,
 injetável",H02AB09,Básico, 
 47,tiamazol,5 mg,comprimido,H03BB02,Básico, 
 48,tiamazol,10 mg,comprimido,H03BB02,Básico, 
-0,aciclovir,200 mg,comprimido,J05AB01,Básico,
+0,aciclovir,200 mg,comprimido,J05AB01,Básico, 
 1,aciclovir,250 mg,"pó para
 solução
-injetável",J05AB01,Básico,
+injetável",J05AB01,Básico, 
 2,"ácido
-araminossalicílico",4 g,granulado oral,J04AA01,Estratégico,
+araminossalicílico",4 g,granulado oral,J04AA01,Estratégico, 
 3,amoxicilina,50 mg/mL,"suspensão
 oral",J01CA04,Básico,Acesso
 4,amoxicilina,500 mg,cápsula,J01CA04,Básico,Acesso

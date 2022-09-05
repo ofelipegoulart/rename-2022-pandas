@@ -57,4 +57,3 @@ def creating_sql_file(user: str, password: str, host: str, database: str):
         conn.commit()
         print("Concluído!")
 
-        # Tem que substituir NaN por ' ', aproveita e já muda a coluna do ffill
