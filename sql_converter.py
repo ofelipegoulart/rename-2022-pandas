@@ -23,7 +23,7 @@ def creating_sql_file(user: str, password: str, host: str, database: str):
         time.sleep(2)
         print("Criando a tabela...")
         tables = {'resources': (
-            "CREATE TABLE teste_final_foi_agora "
+            "CREATE TABLE insumos "
             "(id int,"
             "Denominação_Genérica varchar(115) NOT NULL,"
             "Concentração_Composição varchar(346),"
@@ -49,7 +49,7 @@ def creating_sql_file(user: str, password: str, host: str, database: str):
         for row in csv_file.itertuples():
             val = (row[0], row[2], row[3], row[4], row[5], row[6], row[7])
             cursor.execute('''
-                        INSERT INTO teste_final_foi_agora (id, Denominação_Genérica, Concentração_Composição,
+                        INSERT INTO insumos (id, Denominação_Genérica, Concentração_Composição,
                         Forma_Farmacêutica, Código_ATC, Componente, Classificação_AWaRe)
                         VALUES (%s, %s, %s, %s, %s, %s, %s)
                         ''', val

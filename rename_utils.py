@@ -11,8 +11,10 @@ class RENAME2022:
 
     @staticmethod
     def fill_name_medicine(df):
-        df['Denominação genérica'].fillna(method='ffill')
-        df['Concentração/\nComposição'].fillna('',inplace=True)
+        new_den_gen = df['Denominação genérica'].fillna(method='ffill')
+        df['Denominação genérica'] = new_den_gen
+        new_con_com = df['Concentração/\nComposição'].fillna(' ')
+        df['Concentração/\nComposição'] = new_con_com
         return df
 
     def concatenate_tables(self, list_dataframes):

@@ -29,7 +29,7 @@ internacionais",comprimido,A11CC05,Básico,
 15,Carbonato de cálcio + colecalciferol,"1.500 mg (600 mg de
 cálcio) + 400 unidades
 internacionais",comprimido,A11CC05,Básico, 
-16,carvão vegetal ativado,,"pó para
+16,carvão vegetal ativado, ,"pó para
 suspensão oral",A07BA01,Básico, 
 17,cloridrato de metformina,500 mg,comprimido,A10BA02,Básico, 
 18,cloridrato de metformina,850 mg,comprimido,A10BA02,Básico, 
@@ -117,7 +117,7 @@ internacionais",cápsula,A09AA,Especializado,
 oral",A07CA,Básico, 
 70,sulfassalazina,500 mg,comprimido,A07EC01,Especializado, 
 71,sulfato de atropina,"0,25 mg/mL",solução injetável,A03BA01,Básico, 
-72,sulfato de magnésio,,pó para solução oral,A06AD04,Básico, 
+72,sulfato de magnésio, ,pó para solução oral,A06AD04,Básico, 
 73,sulfato de magnésio,"10% (0,81 mEq/mL
 Mg++)",solução injetável,"A12CC02;
 B05XA05",Básico, 
@@ -495,7 +495,7 @@ tópico",D08AC02,Básico,
 19,nitrato de miconazol,2% (20 mg/g),pó,D01AC02,Básico, 
 20,"nitrato de
 miconazol",2% (20 mg/g),creme,D01AC02,Básico, 
-21,óleo mineral,,"óleo para uso
+21,óleo mineral, ,"óleo para uso
 oral",D02AC,Básico, 
 22,pasta-d'água,FN,pasta,D02AB,Básico, 
 23,permanganato de potássio,100 mg,"comprimido para
@@ -532,7 +532,7 @@ Hospitalar",
 raloxifeno",60 mg,comprimido,G03XC01,Especializado, 
 6,danazol,100 mg,cápsula,G03XA01,Especializado, 
 7,danazol,200 mg,cápsula,G03XA01,Especializado, 
-8,dispositivo intrauterino plástico com cobre,,"modelo T 380
+8,dispositivo intrauterino plástico com cobre, ,"modelo T 380
 mm2",G02BA02,Insumos (Básico), 
 9,"enantato de
 noretisterona
@@ -2024,22 +2024,22 @@ selênio 17
 microgramas, iodo
 90 microgramas",pó,V06DX,Estratégico, 
 37,"preservativo
-Feminino",,até 20 cm,NC,"Insumos
+Feminino", ,até 20 cm,NC,"Insumos
 (Estratégico)", 
 38,"preservativo
-masculino",,160 mm x 49 mm,NC,"Insumos
+masculino", ,160 mm x 49 mm,NC,"Insumos
 (Estratégico)", 
 39,"preservativo
-masculino",,160 mm x 52 mm,NC,"Insumos
+masculino", ,160 mm x 52 mm,NC,"Insumos
 (Estratégico)", 
 40,"seringas com
 agulha acoplada
 para aplicação de
-insulina",,unidade,NC,"Insumos
+insulina", ,unidade,NC,"Insumos
 (Básico)", 
 41,"tiras reagentes de
 medida de glicemia
-capilar",,unidade,NC,"Insumos
+capilar", ,unidade,NC,"Insumos
 (Básico)", 
 0,"alcachofra (Cynara
 scolymus L.)","24 a 48 mg de derivados
