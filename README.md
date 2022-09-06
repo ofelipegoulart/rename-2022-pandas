@@ -8,6 +8,6 @@ que inclui os medicamentos e insumos hospitalares disponibilizados pela rede pú
 
 Apesar dos scripts do repositório estarem em Python, a obtenção dos dados se deu pelo [Tabula](https://tabula.technology/), software responsável por extrair dados de tabelas de arquivos em formato pdf. Depois da extração, os dados foram tratados pelos algoritmos em Python pela biblioteca Pandas.
 
-## Implementações Futuras
+## Finalização do Projeto
 
-O final do projeto se dará pela criação do script - também em Python - que transforma o arquivo resultado pelo programa de tratamento dos dados em um arquivo SQL, que será aproveitadoo pelo Painel RENAME 2022 a fim de realizar as consultas sobre os insumos e medicamentos.
+O repositório foi finalizado após o deploy do banco de dados em uma instância de banco de dados da AWS (RDS).
