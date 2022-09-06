@@ -6,7 +6,7 @@ que inclui os medicamentos e insumos hospitalares disponibilizados pela rede pú
 
 ## Ferramentas Utilizadas
 
-Apesar dos scripts do repositório estarem em Python, a obtenção dos dados se deu pelo [Tabula](https://tabula.technology/), software responsável por extrair dados de tabelas de arquivos em formato pdf. Depois da extração, os dados foram tratados pelos algoritmos em Python pela biblioteca Pandas.
+Apesar dos scripts do repositório estarem em Python, a obtenção dos dados se deu pelo [Tabula](https://tabula.technology/), software responsável por extrair dados de tabelas de arquivos em formato pdf. Depois da extração, os dados foram tratados pelos algoritmos em Python pela biblioteca Pandas. Em seguida, com a planilha CSV criada, um outro script foi implementado com o objetivo de inserir os dados da planilha dentro de um banco de dados, para que se possa posteriormente trabalhar as informações dentro da nossa aplicação web.
 
 ## Finalização do Projeto
 
